@@ -1,20 +1,19 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer : (C/C++, C#, Unity, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
+<h3 align="center">Game & Game Engine Developer : (C/C++, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=2090f0&style=flat-square" alt="sjthesahiljoseph" /> </p>
 
-- Website: [sjthesahiljoseph.com](sjthesahiljoseph.com)
+- Website: sjthesahiljoseph.com
 
-- Email Address: [sjthesahiljoseph@gmail.com](mailto://sjthesahiljoseph@gmail.com)
+- Email Address: sjthesahiljoseph@gmail.com
 
-- YouTube: [sjthesahiljoseph](youtube.com/@sjthesahiljoseph)
+- YouTube: youtube.com/@sjthesahiljoseph
 
-- Instagram: [sjthesahiljoseph](instagram.com/@sjthesahiljoseph)
+- Instagram: instagram.com/@sjthesahiljoseph
 
-- LinkedIn: [sjthesahiljoseph](linkedin.com/in/sjthesahiljoseph)
-
+- LinkedIn: linkedin.com/in/sjthesahiljoseph
 
 
 <details>
@@ -103,7 +102,7 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++, C# Components).
+- Download and Install Visual Studio Community 2026 with (All C/C++).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
