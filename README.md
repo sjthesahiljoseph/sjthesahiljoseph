@@ -210,7 +210,7 @@ SJ the Sahil Joseph's Configurations
 - Use Darkest Theme.
 
 ## OBS:
-- Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 500px, Height = Ratio Calculation) - Taskbar (under).
+- Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 430px, Height = Ratio Calculation) - Taskbar (under).
 - Use Darkest Theme.
 
 ## Reaper:
