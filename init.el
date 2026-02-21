@@ -124,6 +124,11 @@
     :defer t
     )
 
+(use-package javascript-mode
+    :ensure t
+    :defer t
+    )
+
 (use-package json-mode
     :ensure t
     :defer t
