@@ -5,6 +5,7 @@
 (setq use-dialog-box nil)
 (setq echo-keystrokes nil)
 (global-hl-line-mode 0)
+(global-display-line-numbers-mode 1)
 (column-number-mode t)
 (when (bound-and-true-p tooltip-mode)
     (tooltip-mode -1))
