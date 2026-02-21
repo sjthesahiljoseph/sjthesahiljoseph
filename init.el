@@ -114,53 +114,6 @@
 	(global-colorful-mode t)
 	(add-to-list 'global-colorful-modes 'helpful-mode))
 
-(use-package python-mode
-	:ensure t
-    :defer t
-    )
-
-(use-package markdown-mode
-	:ensure t
-    :defer t
-    )
-
-(use-package json-mode
-    :ensure t
-    :defer t
-    )
-
-(use-package web-mode
-    :ensure t
-    :defer t
-    :mode
-    (
-        ("\\.html\\'" . web-mode)
-        ("\\.css\\'" . web-mode)
-        )
-    :config
-    )
-
-(use-package emmet-mode
-    :ensure t
-    :defer t
-    )
-
-(add-hook 'web-mode-hook 'emmet-mode)
-
-(defun my-web-mode-hook ()
-    "Hooks for Web mode."
-    (setq web-mode-markup-indent-offset 4)
-    (setq web-mode-css-indent-offset 4)
-    (setq web-mode-code-indent-offset 4)
-    (setq web-mode-enable-auto-pairing nil)
-    (setq web-mode-enable-auto-closing nil)
-    (setq web-mode-enable-auto-indentation nil)
-    (setq web-mode-enable-auto-opening nil)
-    (setq web-mode-enable-auto-quoting  nil)
-    )
-
-(add-hook 'web-mode-hook  'my-web-mode-hook)
-
 (setq create-lockfiles nil)
 
 (setq eldoc-echo-area-use-multiline-p nil)
@@ -177,8 +130,6 @@
 
 (setq c-basic-offset 4)
 (setq lisp-indent-offset 4)
-(setq-default js-indent-level 4)
-(setq-default typescript-indent-level 4)
 (setq c-default-style "linux")
 (setq-default c-indent-level 4)
 
@@ -311,13 +262,12 @@
 
 
 
-
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(package-selected-packages nil))
+ '(package-selected-packages '(colorful-mode move-text)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
