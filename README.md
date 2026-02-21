@@ -103,6 +103,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Visual Studio Community 2026:
 - Download and Install Visual Studio Community 2026 with (All C/C++/Python).
+- Download and Install Python.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
