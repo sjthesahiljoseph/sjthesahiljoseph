@@ -289,3 +289,39 @@
 (global-set-key (kbd "M-<return>") 'indent-whole-buffer)
 
 
+(cua-mode 1)
+
+(global-set-key (kbd "C-z") 'undo)
+(global-set-key (kbd "C-S-z") 'undo-redo)
+
+(setq shift-select-mode t)
+
+(global-set-key (kbd "C-s") 'save-buffer)
+(global-set-key (kbd "C-f") 'isearch-forward)
+(global-set-key (kbd "C-S-f") 'isearch-backward)
+
+(global-set-key (kbd "<C-tab>") 'next-buffer)
+(global-set-key (kbd "<C-S-iso-lefttab>") 'previous-buffer)
+(global-set-key (kbd "<C-S-tab>") 'previous-buffer)
+
+(global-set-key (kbd "<S-delete>") 'delete-current-line)
+
+(defun my-duplicate-line-or-region ()
+  (interactive)
+  (let (p1 p2)
+    (if (use-region-p)
+        (setq p1 (region-beginning) p2 (region-end))
+      (setq p1 (line-beginning-position) p2 (line-end-position)))
+    (save-excursion
+      (let ((text (buffer-substring p1 p2)))
+        (goto-char p2)
+        (newline)
+        (insert text)))))
+
+(global-set-key (kbd "C-d") 'my-duplicate-line-or-region)
+
+
+
+
+
+
