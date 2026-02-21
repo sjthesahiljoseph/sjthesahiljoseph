@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer : (C/C++, C#, Unity, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
+<h3 align="center">Game & Game Engine Developer : (C/C++, Python, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=2090f0&style=flat-square" alt="sjthesahiljoseph" /> </p>
 
@@ -47,7 +47,7 @@ SJ the Sahil Joseph's Configurations
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- Setup Microsoft OneDrive.
+- UnInstall Microsoft OneDrive.
 - Rest Defaults.
 
 ## File Explorer:
@@ -57,12 +57,11 @@ SJ the Sahil Joseph's Configurations
 - Don't pin anything except defauts and "sjthe" folder and "Projects" folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
-## Microsoft Edge:
-- Download and Install Microsoft Edge.
+## Google Chrome:
+- Download and Install Google Chrome.
 - Make this default for everything.
-- Search Engine = Bing.
 - System Light Theme default.
-- New Tab Page = Empty.
+- New Tab Page = Empty, just search bar.
 - Sign In & Sync.
 - Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
 - No Bookmarkbar at all.
@@ -73,9 +72,10 @@ SJ the Sahil Joseph's Configurations
 - Rest Defaults.
 
 ## Backup:
-- Use OneDrive as primary cloud storage.
+- Use Google Drive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Google Photos for Photos and Videos but Organized.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -102,7 +102,7 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#).
+- Download and Install Visual Studio Community 2026 with (All C/C++/Python).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -131,8 +131,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Use Visual Studio Code for General Text Editing, Python, JavaScript/TypeScript, or any other stuff.
-- Download and Install Python, NodeJs, or any other stuff needed.
+- Use Visual Studio Code for General Text Editing.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -184,11 +183,6 @@ SJ the Sahil Joseph's Configurations
 ## Internet Download Manager:
 - Download and Install IDM Internet Download Manager.
 
-## Microsoft 360:
-- Use Microsoft 360 for almsot everything related to that.
-- Download and Install Microsoft 360.
-- Excel, Word, PowerPoint, Access, etc... all.
-
 ## Adobe:
 - Download and Install Photoshop Latest. Use Darkest Theme. Hide Context Bar.
 - Download and Install After Effects Latest. Use Darkest Theme.
@@ -202,10 +196,6 @@ SJ the Sahil Joseph's Configurations
 
 ## Unreal Engine:
 - Download and Install Unreal Engine.
-- Use Darkest Theme.
-
-## Unity Engine:
-- Download and Install Unity Engine.
 - Use Darkest Theme.
 
 ## OBS:
@@ -225,16 +215,17 @@ SJ the Sahil Joseph's Configurations
 - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- Microsoft OutLook:
-    - Use Microsoft OutLook for Mails with sjthesahiljoseph@gmail.com.
+- GMail:
+    - Use GMail from browser for Mails with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
+- Gmail = From Mobile & Browser.
 - Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 
 ## Music:
-- Local Download & stored in OneDrive MP3.
+- Local Download & stored in Google Drive MP3.
 - That's it.
 
 ## SJ Mobile:
