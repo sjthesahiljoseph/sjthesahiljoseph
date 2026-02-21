@@ -91,11 +91,11 @@ SJ the Sahil Joseph's Configurations
 ## Terminal:
 - Windows Terminal.
 - Always Split Screen Size.
-- Color for all BG: #071307, FG: #90B080, Selection BG: #000080, Selection FG: #ffffff.
+- Color for all BG: #071307, FG: #90B080.
 - Font: Liberation Mono 13 pt / 17 px.
 - Cursor: Box Cursor ([]). "#40ff40".
 - Use as many instances.
-- But majority of the cases, use IDE's or Text Editor's terminals.
+- Terminal Settings: terminal_settings.json.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
