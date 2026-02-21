@@ -259,8 +259,8 @@
     :ensure t
     )
 
-(global-set-key (kbd "M-p") 'move-text-up)
-(global-set-key (kbd "M-n") 'move-text-down)
+(global-set-key (kbd "M-<up>") 'move-text-up)
+(global-set-key (kbd "M-<down>") 'move-text-down)
 
 (defun indent-region-advice (&rest ignored)
     (let ((deactivate deactivate-mark))
