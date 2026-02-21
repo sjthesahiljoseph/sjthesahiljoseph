@@ -104,7 +104,22 @@
     :defer t
     )
 
+(use-package colorful-mode
+	:ensure t
+	:custom
+	(colorful-use-prefix t)
+	(colorful-only-strings 'only-prog)
+	(css-fontify-colors nil)
+	:config
+	(global-colorful-mode t)
+	(add-to-list 'global-colorful-modes 'helpful-mode))
+
 (use-package python-mode
+	:ensure t
+    :defer t
+    )
+
+(use-package markdown-mode
 	:ensure t
     :defer t
     )
@@ -279,8 +294,6 @@
 (global-set-key (kbd "<C-S-iso-lefttab>") 'previous-buffer)
 (global-set-key (kbd "<C-S-tab>") 'previous-buffer)
 
-(global-set-key (kbd "<S-delete>") 'delete-current-line)
-
 (defun my-duplicate-line-or-region ()
 	(interactive)
 	(let (p1 p2)
@@ -300,3 +313,15 @@
 
 
 
+(custom-set-variables
+	;; custom-set-variables was added by Custom.
+	;; If you edit it by hand, you could mess it up, so be careful.
+	;; Your init file should contain only one such instance.
+	;; If there is more than one, they won't work right.
+	'(package-selected-packages nil))
+(custom-set-faces
+	;; custom-set-faces was added by Custom.
+	;; If you edit it by hand, you could mess it up, so be careful.
+	;; Your init file should contain only one such instance.
+	;; If there is more than one, they won't work right.
+	)
