@@ -79,7 +79,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Cascadia Mono 13 pt / 17 px.
+- Always Fonts: Liberation Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -92,7 +92,7 @@ SJ the Sahil Joseph's Configurations
 - Default Windows 10 Terminal Cmd or Powershell.
 - Always Split Screen Size.
 - Color for all BG: #071307, FG: #90B080, Selection BG: #000080, Selection FG: #ffffff.
-- Font: Cascadia Mono 13 pt / 17 px.
+- Font: Liberation Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|). "#40ff40".
 - Use as many instances.
 - But majority of the cases, use IDE's or Text Editor's terminals.
@@ -127,7 +127,7 @@ SJ the Sahil Joseph's Configurations
 - Sync.
 - Disable All AI related Features.
 - Extensions = (VS Block Jumper).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 
 ## VLC Media Player:
