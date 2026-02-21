@@ -101,81 +101,34 @@ SJ the Sahil Joseph's Configurations
 - Setup with GitHub using SSH.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
+## SJ Code Style:
+- Write code in Emacs, but use Visual Studio IDE as a Debugger.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{<...etc.
+- Use Debugger as much as possible.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Use build.bat for code compile.
+
+## Emacs:
+- Download and Install Emacs.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Emacs Config = init.el.
+- Symlink to Actual init.el.
+- Place loveisanillusion.emacs theme = C:\Users\sjthe\Projects\loveisanillusion.emacs
+
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/Python).
-- Download and Install Python.
+- Download and Install Visual Studio Community 2026 with (All C/C++).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
 - Extensions = (VS Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Other Windows below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
-- Visual Studio IDE Settings = SJtheSahilJosephVS.vssettings.
-
-## Visual Studio Code:
-- Download and Install Visual Studio Code.
-- Use Visual Studio Code for General Text Editing.
-- Sign In using GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, any other temporary working extension).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Keymap for TabOut.
-- Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
-- Output Window below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
-
-## SJ the Sahil Joseph's Love Is An Illusion Color Theme.
-- Cursor = "#40ff40"
-- BackgroundMainBlack = "#0c0c0c"
-- BackgroundGreen = "#071307"
-- Foreground = "#90b080"
-- Keyword = "#d08f20"
-- Comment = "#2090f0"
-- String = "#50ff30"
-- Highlight Background = "#0b0b0b"
-- Search Foreground = "#ff44dd"
-- Search Background = "#ddee00"
-- Line Numbers = "#555555"
-- Active Line Number = "#aaaaaa"
-- Active Line = "#1e1e1e"
-- Error = "#bb0000"
-- Warning = "#bbbb00"
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
