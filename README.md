@@ -80,7 +80,7 @@ SJ the Sahil Joseph's Configurations
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Liberation Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|). "#40ff40".
+- Cursor: Box Cursor ([]). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -89,11 +89,11 @@ SJ the Sahil Joseph's Configurations
 - Win + Search = Search Application to launch or Use Taskbar or Start Menu.
 
 ## Terminal:
-- Default Windows 10 Terminal Cmd or Powershell.
+- Windows Terminal.
 - Always Split Screen Size.
 - Color for all BG: #071307, FG: #90B080, Selection BG: #000080, Selection FG: #ffffff.
 - Font: Liberation Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|). "#40ff40".
+- Cursor: Box Cursor ([]). "#40ff40".
 - Use as many instances.
 - But majority of the cases, use IDE's or Text Editor's terminals.
 
