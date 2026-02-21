@@ -104,26 +104,10 @@
     :defer t
     )
 
-
-(use-package typescript-ts-mode
-  :mode (("\\.ts\\'" . typescript-ts-mode)
-         ("\\.tsx\\'" . tsx-ts-mode))
-  :config
-  (setq typescript-ts-mode-indent-offset 4))
-
-(use-package js
-  :mode ("\\.js\\'" . javascript-ts-mode)
-  :config
-  (setq js-indent-level 4))
-
-(use-package treesit-auto
-  :ensure t
-  :custom
-  (treesit-auto-install 'prompt)
-  :config
-  (treesit-auto-add-to-auto-mode-alist 'all)
-  (global-treesit-auto-mode t))
-
+(use-package typescript-mode
+	:ensure t
+    :defer t
+    )
 
 (use-package colorful-mode
 	:ensure t
@@ -282,3 +266,15 @@
 
 
 
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages nil))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
