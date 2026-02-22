@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer : (C/C++, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio IDE)</h3>
+<h3 align="center">Game & Game Engine Developer : (C/C++, Visual Studio IDE, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=2090f0&style=flat-square" alt="sjthesahiljoseph" /> </p>
 
@@ -25,8 +25,8 @@ SJ the Sahil Joseph's Configurations
 ## Operating System
 
 - Windows 10 Pro x64.
-- Default Windows Mode = Dark. Default App Mode / Other than that Light Mode Everywhere.
-- Blue Light Theme.
+- Dark mode everywhere.
+- Blue Dark Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Update Windows & Apps.
@@ -39,7 +39,7 @@ SJ the Sahil Joseph's Configurations
 - Desktop & Lock Screen Wallpaper = Wallpaper.png.
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
-- Taskbar should have almost every everyday use application pin.
+- Taskbar should have only currently active applications. No Pins.
 - Taskbar should contain apps icons, no search bar or button, no task view button, no widgets, and always combine icons, and left alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Desktop should be empty. No Icons at all except default in the settings.
@@ -84,9 +84,8 @@ SJ the Sahil Joseph's Configurations
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
-- Sometimes, file explorer's under titlebar path navigator = to open cmd or other stuff.
 - Learn the workspace. Learn & Create the keymaps. And use as much keymaps as possible. Master them.
-- Win + Search = Search Application to launch or Use Taskbar or Start Menu.
+- Win + Search = Search Application to launch or Start Menu.
 
 ## Terminal:
 - Windows Terminal.
@@ -94,7 +93,7 @@ SJ the Sahil Joseph's Configurations
 - Color for all BG: #071307, FG: #90B080.
 - Font: Liberation Mono 13 pt / 17 px.
 - Cursor: Box Cursor ([]). "#40ff40".
-- Use as many instances.
+- Use as many tabs.
 - Terminal Settings: terminal_settings.json.
 
 ## Git for Windows:
@@ -102,7 +101,7 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## SJ Code Style:
-- Write code in Emacs, but use Visual Studio IDE as a Debugger.
+- Write code in Emacs, but use Visual Studio IDE as a project manager or debugger..
 - All formatting = Braces on next line.
 - PascalCase, camelCase for almost everything. For everything.
 - Automatically close "([{<...etc.
