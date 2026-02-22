@@ -135,7 +135,7 @@ SJ the Sahil Joseph's Configurations
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, Tailwind CSS IntelliSense, Prettier - Code formatter, any other temporary working extension).
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, Tailwind CSS IntelliSense, any other temporary working extension).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -158,7 +158,6 @@ SJ the Sahil Joseph's Configurations
 - Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- Format file on Alt + Shift + F using Prettier.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
