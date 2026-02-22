@@ -100,33 +100,63 @@ SJ the Sahil Joseph's Configurations
 - Setup with GitHub using SSH.
 - Use Git stuff from IDE or Text Editor or Terminal.
 
-## SJ Code Style:
-- Write code in Emacs, but use Visual Studio IDE as a project manager or debugger..
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Use Debugger as much as possible.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Use build.bat for code compile.
-
-## Emacs:
-- Download and Install Emacs.
-- Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Smooth Scrolling Off.
-- Emacs Config = init.el.
-- Symlink to Actual init.el.
-- Place loveisanillusion.emacs theme = C:\Users\sjthe\Projects\loveisanillusion.emacs
-
 ## Visual Studio Community 2026:
 - Download and Install Visual Studio Community 2026 with (All C/C++).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
 - Extensions = (VS Block Jumper).
-- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer and Git Change = Left Side.
+- Theme = Default Modern Dark.
+- Indent = Use tabs and 4 size.
+- Word Wrap Off.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- File Tabs in one line by recent sequence.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{<...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Other Windows below, and auto hide.
+- Keep Powershell Terminal Open as well below, and auto hide.
+- Visual Studio IDE Settings = SJtheSahilJosephVS.vssettings.
+
+## Visual Studio Code:
+- Download and Install Visual Studio Code.
+- Use Visual Studio Code for General Text Editing and other stuff.
+- Sign In using GitHub Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, any other temporary working extension).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer and Git Change = Left Side.
+- Theme = Default Modern Dark.
+- Indent = Use tabs and 4 size.
+- Word Wrap Off.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- File Tabs in one line by recent sequence.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{<...etc.
+- Disable Auto Backup File stuff.
+- Disable Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Keymap for TabOut.
+- Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
+- Output Window below, and auto hide.
+- Keep Powershell Terminal Open as well below, and auto hide.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
