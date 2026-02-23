@@ -185,6 +185,11 @@ SJ the Sahil Joseph's Configurations
 - Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 430px, Height = Ratio Calculation) - Taskbar (under).
 - Use Darkest Theme.
 
+## Explainer Whiteboard App:
+- Use Adobe Photoshop for Explainer Whiteboard.
+- Canvas of 1920 x 1080 px x multiple artboards.
+- Love is an Illusion Color Pallete.
+
 ## Reaper:
 - Download and Install Reaper.
 - Use Darkest Theme.
