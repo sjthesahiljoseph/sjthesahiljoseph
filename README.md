@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer : (C/C++, Visual Studio IDE, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
+<h3 align="center">Game & Game Engine Developer : (C/C++, C#, Visual Studio IDE, Unity, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=2090f0&style=flat-square" alt="sjthesahiljoseph" /> </p>
 
@@ -175,6 +175,10 @@ SJ the Sahil Joseph's Configurations
 
 ## Blender:
 - Download and Install Blender Latest.
+- Use Darkest Theme.
+
+## Unity Engine:
+- Download and Install Unity Engine.
 - Use Darkest Theme.
 
 ## Unreal Engine:
