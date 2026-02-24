@@ -101,7 +101,8 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++).
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/Python/JavaScript/TypeScript (Everything)).
+- Download and Install Python, NodeJs manually.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -130,12 +131,11 @@ SJ the Sahil Joseph's Configurations
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Download and Install Python, NodeJs, Bun.
-- Use Visual Studio Code for General Text Editing and NodeJs stuff.
+- Use Visual Studio Code for General Text Editing.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, Tailwind CSS IntelliSense, any other temporary working extension).
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
