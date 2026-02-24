@@ -131,7 +131,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Use Visual Studio Code for General Text Editing.
+- Use Visual Studio Code for General Text Editing only, for almost everything Visual Studio IDE.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
