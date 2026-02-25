@@ -23,7 +23,6 @@ SJ the Sahil Joseph's Configurations
 </summary>
 
 ## Operating System
-
 - Windows 10 Pro x64.
 - Dark mode everywhere.
 - Blue Dark Theme.
@@ -47,7 +46,7 @@ SJ the Sahil Joseph's Configurations
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- UnInstall Microsoft OneDrive.
+- Install & Setup Microsoft OneDrive.
 - Rest Defaults.
 
 ## File Explorer:
@@ -72,10 +71,9 @@ SJ the Sahil Joseph's Configurations
 - Rest Defaults.
 
 ## Backup:
-- Use Google Drive as primary cloud storage.
+- Use Microsoft OneDrive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
-- Google Photos for Photos and Videos but Organized.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -159,6 +157,10 @@ SJ the Sahil Joseph's Configurations
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 
+## Microsoft 360:
+- Download and Install Microsoft 360.
+- Download and Install Microsoft Office.
+
 ## VLC Media Player:
 - Download and Install VLC Media Player.
 - Use VLC Media Player for almost every media thing.
@@ -207,17 +209,16 @@ SJ the Sahil Joseph's Configurations
 - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- GMail:
-    - Use GMail from browser for Mails with sjthesahiljoseph@gmail.com.
+- Microsoft OutLook:
+    - Use Microsoft OutLook for Mails with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
-- Gmail = From Mobile & Browser.
 - Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 
 ## Music:
-- Local Download & stored in Google Drive MP3.
+- Local Download & stored in Microsoft OneDrive MP3.
 - That's it.
 
 ## SJ Mobile:
