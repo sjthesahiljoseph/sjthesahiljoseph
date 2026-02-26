@@ -46,7 +46,7 @@ SJ the Sahil Joseph's Configurations
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- Install & Setup Microsoft OneDrive.
+- UnInstall Microsoft OneDrive.
 - Rest Defaults.
 
 ## File Explorer:
@@ -71,9 +71,10 @@ SJ the Sahil Joseph's Configurations
 - Rest Defaults.
 
 ## Backup:
-- Use Microsoft OneDrive as primary cloud storage.
+- Use Google Drive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Use Google Photos for Photos & Videos.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -162,9 +163,8 @@ SJ the Sahil Joseph's Configurations
 - Keep Visual Studio Code Open in Solution Folder side by side.
 - Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS/Python Stuff.
 
-## Microsoft 360:
-- Download and Install Microsoft 360.
-- Download and Install Microsoft Office.
+## Google Workspace:
+- Use Google Workspace from Browser.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
@@ -214,13 +214,14 @@ SJ the Sahil Joseph's Configurations
 - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- Microsoft OutLook:
-    - Use Microsoft OutLook for Mails with sjthesahiljoseph@gmail.com.
+- Gmail:
+    - Use Gmail with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
-- Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
+- Gmail, Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
+- Google Workspace = From Mobile & Browser.
 
 ## Music:
 - Local Download & stored in Microsoft OneDrive MP3.
