@@ -224,7 +224,7 @@ SJ the Sahil Joseph's Configurations
 - Google Workspace = From Mobile & Browser.
 
 ## Music:
-- Local Download & stored in Microsoft OneDrive MP3.
+- YouTube, YouTube Music.
 - That's it.
 
 ## SJ Mobile:
