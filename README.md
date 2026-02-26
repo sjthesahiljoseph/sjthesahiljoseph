@@ -234,6 +234,7 @@ SJ the Sahil Joseph's Configurations
 - Password + Finger Print Lock.
 - Empty Home Screen, only one home screen and a clock widget only.
 - Pin useful apps shortcuts there.
+- Google Authenticator = Authenticator Application.
 - Ring Attached to natural Middle Finger Hold Position.
 - Keep Wired Handfree in the pocket.
 
