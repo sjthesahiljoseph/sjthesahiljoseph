@@ -126,10 +126,13 @@ SJ the Sahil Joseph's Configurations
 - Other Windows below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjthesahiljosephvisualstudio.vssettings & visualstudioide.settings.json.
+- Keep Visual Studio Code Open in Solution Folder side by side.
+- Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS/Python Stuff.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
 - Use Visual Studio Code for General Text Editing only, for almost everything Visual Studio IDE.
+- Download and Install Python, NodeJs manually.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -156,6 +159,8 @@ SJ the Sahil Joseph's Configurations
 - Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
+- Keep Visual Studio Code Open in Solution Folder side by side.
+- Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS/Python Stuff.
 
 ## Microsoft 360:
 - Download and Install Microsoft 360.
