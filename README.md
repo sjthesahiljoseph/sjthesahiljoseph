@@ -118,7 +118,7 @@ SJ the Sahil Joseph's Configurations
 - PascalCase, camelCase for almost everything. For everything.
 - Automatically close "([{<...etc.
 - Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
+- Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
@@ -150,7 +150,7 @@ SJ the Sahil Joseph's Configurations
 - PascalCase, camelCase for almost everything. For everything.
 - Automatically close "([{<...etc.
 - Disable Auto Backup File stuff.
-- Disable Bracket Pair Colorize.
+- Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
 - Use Debugger as much as possible.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
