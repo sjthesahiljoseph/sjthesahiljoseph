@@ -41,6 +41,8 @@ SJ the Sahil Joseph's Configurations
 - Taskbar should contain apps icons, search bar, task view button, widgets, and always combine icons, and center alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Desktop should have almost every application shortcut.
+- Desktop Icons Small.
+- Taskbar Size Standard, Not small.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
@@ -71,10 +73,9 @@ SJ the Sahil Joseph's Configurations
 - Rest Defaults.
 
 ## Backup:
-- Use Google Drive as primary cloud storage.
+- Use Microsoft OneDrive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
-- Use Google Photos for Photos & Videos.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -127,41 +128,6 @@ SJ the Sahil Joseph's Configurations
 - Other Windows below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjthesahiljosephvisualstudio.vssettings & visualstudioide.settings.json.
-- Keep Visual Studio Code Open in Solution Folder side by side.
-- Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS/Python Stuff.
-
-## Visual Studio Code:
-- Download and Install Visual Studio Code.
-- Use Visual Studio Code for General Text Editing only, for almost everything Visual Studio IDE.
-- Download and Install Python, NodeJs manually.
-- Sign In using GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Disable Auto Backup File stuff.
-- Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Keymap for TabOut.
-- Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
-- Output Window below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
-- Keep Visual Studio Code Open in Solution Folder side by side.
-- Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS/Python Stuff.
 
 ## Microsoft Office 360:
 - Download and Install and Setup Microsoft Office 360 (Word, Excel, PowerPoint, etc.. all).
@@ -224,7 +190,7 @@ SJ the Sahil Joseph's Configurations
 - Payment Apps = From Mobile & Browser.
 
 ## Music:
-- YouTube, YouTube Music.
+- MP3 Old way, on Microsoft OneDrive.
 - That's it.
 
 ## SJ Mobile:
