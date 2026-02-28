@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer : (C/C++, C#, Visual Studio IDE, Unity, Unreal, Custom Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper)</h3>
+<h3 align="center">Game & Game Engine Developer : (C/C++, Rust, Custom Engine, Unreal Engine, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE, VS Code)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=2090f0&style=flat-square" alt="sjthesahiljoseph" /> </p>
 
@@ -101,8 +101,7 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#/Python/JavaScript/TypeScript (Everything)).
-- Download and Install Python, NodeJs manually.
+- Download and Install Visual Studio Community 2026 with (All C/C++ (Everything)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -129,6 +128,37 @@ SJ the Sahil Joseph's Configurations
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Visual Studio IDE Settings = sjthesahiljosephvisualstudio.vssettings & visualstudioide.settings.json.
 
+## Visual Studio Code:
+- Download and Install Visual Studio Code.
+- Download and Install Rust, Python, NodeJs manually.
+- Sign In using GitHub Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer and Git Change = Left Side.
+- Theme = Default Modern Dark.
+- Indent = Use tabs and 4 size.
+- Word Wrap Off.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- File Tabs in one line by recent sequence.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{<...etc.
+- Disable Auto Backup File stuff.
+- Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Keymap for TabOut.
+- Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
+- Output Window below, and auto hide.
+- Keep Powershell Terminal Open as well below, and auto hide.
+- Use Visual Studio Code for Rust/Python/NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
+
 ## Microsoft Office 360:
 - Download and Install and Setup Microsoft Office 360 (Word, Excel, PowerPoint, etc.. all).
 - Use Microsoft Office 360.
@@ -149,10 +179,6 @@ SJ the Sahil Joseph's Configurations
 
 ## Blender:
 - Download and Install Blender Latest.
-- Use Darkest Theme.
-
-## Unity Engine:
-- Download and Install Unity Engine.
 - Use Darkest Theme.
 
 ## Unreal Engine:
