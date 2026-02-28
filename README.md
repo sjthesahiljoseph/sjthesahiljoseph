@@ -23,30 +23,29 @@ SJ the Sahil Joseph's Configurations
 </summary>
 
 ## Operating System
-- Windows 10 Pro x64.
+- Windows 11 Pro x64.
 - Dark mode everywhere.
 - Blue Dark Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Update Windows & Apps.
-- Disable / Hide AI 100% from everywhere.
+- Disable AI 100% from everywhere.
 - Disable Auto Sleep, Screen Off.
-- No Start Ups apps at all other than default.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
 - Turn Off Timeline Suggestions.
 - Desktop & Lock Screen Wallpaper = Wallpaper.png.
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
-- Taskbar should have only currently active applications. No Pins.
-- Taskbar should contain apps icons, no search bar or button, no task view button, no widgets, and always combine icons, and left alignment.
+- Taskbar should have almost every everyday use application pin.
+- Taskbar should contain apps icons, search bar, task view button, widgets, and always combine icons, and center alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
-- Desktop should be empty. No Icons at all except default in the settings.
+- Desktop should have almost every application shortcut.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- UnInstall Microsoft OneDrive.
+- Install and Setup Microsoft OneDrive.
 - Rest Defaults.
 
 ## File Explorer:
@@ -56,16 +55,17 @@ SJ the Sahil Joseph's Configurations
 - Don't pin anything except defauts and "sjthe" folder and "Projects" folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
-## Google Chrome:
-- Download and Install Google Chrome.
+## Microsoft Edge:
+- Install and Setup Microsoft Edge.
 - Make this default for everything.
-- System Light Theme default.
-- New Tab Page = Empty, just search bar.
+- System Dark Theme default.
+- Bing Search Engine.
+- New Tab Page = Custom sjnewtab.html.
 - Sign In & Sync.
 - Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
-- No Bookmarkbar at all.
+- Bookmarkbar important stuff.
 - Turn Off Automatically sleep tabs mode, and all.
-- Show all buttons on toolbar.
+- Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
 - Don't show search recommendations or suggestions.
 - Rest Defaults.
@@ -88,7 +88,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Terminal:
 - Windows Terminal.
-- Always Split Screen Size.
+- Always half Screen Size.
 - Color for all BG: #071307, FG: #90B080.
 - Font: Cascadia Mono 13 pt / 17 px.
 - Cursor: Bar Cursor (|). "#40ff40".
@@ -163,8 +163,9 @@ SJ the Sahil Joseph's Configurations
 - Keep Visual Studio Code Open in Solution Folder side by side.
 - Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS/Python Stuff.
 
-## Google Workspace:
-- Use Google Workspace from Browser.
+## Microsoft Office 360:
+- Download and Install and Setup Microsoft Office 360 (Word, Excel, PowerPoint, etc.. all).
+- Use Microsoft Office 360.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
@@ -214,14 +215,13 @@ SJ the Sahil Joseph's Configurations
 - And only show taskbar dots even when app is opened.
 
 ## Mail Client:
-- Gmail:
-    - Use Gmail with sjthesahiljoseph@gmail.com.
+- Microsoft OutLook:
+    - Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
-- Gmail, Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
+- Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
-- Google Workspace = From Mobile & Browser.
 
 ## Music:
 - YouTube, YouTube Music.
@@ -238,8 +238,6 @@ SJ the Sahil Joseph's Configurations
 - Google Authenticator = Authenticator Application.
 - Ring Attached to natural Middle Finger Hold Position.
 - Keep Wired Handfree in the pocket.
-
-
 
 </details>
 
