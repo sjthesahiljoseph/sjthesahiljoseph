@@ -134,7 +134,7 @@ SJ the Sahil Joseph's Configurations
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut).
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, rust-analyzer).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
