@@ -130,7 +130,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Download and Install Rust, Python, NodeJs manually.
+- Download and Install Rust, NodeJs manually.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -157,7 +157,7 @@ SJ the Sahil Joseph's Configurations
 - Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- Use Visual Studio Code for Rust/Python/NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
+- Use Visual Studio Code for Rust/NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
 
 ## Microsoft Office 360:
 - Download and Install and Setup Microsoft Office 360 (Word, Excel, PowerPoint, etc.. all).
