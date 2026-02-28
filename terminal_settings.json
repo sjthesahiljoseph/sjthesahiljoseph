@@ -1,3 +1,4 @@
+
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
@@ -6,7 +7,10 @@
     "centerOnLaunch": true,
     "copyFormatting": "none",
     "copyOnSelect": false,
-    "defaultProfile": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "showTabsFullscreen": false,
+    "tabWidthMode": "equal",
+    "minimizeToNotificationArea": false,
+
     "keybindings": 
     [
         {
@@ -22,7 +26,6 @@
             "keys": "alt+shift+d"
         }
     ],
-    "minimizeToNotificationArea": false,
     "newTabMenu": 
     [
         {
@@ -31,12 +34,13 @@
     ],
     "profiles": 
     {
-        "defaults": 
+
+
+"defaults":
         {
             "colorScheme": "Love Is An Illusion",
             "cursorShape": "bar",
-            "experimental.retroTerminalEffect": false,
-            "font": 
+            "font":
             {
                 "cellHeight": "1",
                 "face": "Cascadia Mono",
@@ -44,42 +48,10 @@
             },
             "scrollbarState": "always"
         },
-        "list": 
-        [
-            {
-                "commandline": "%SystemRoot%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
-                "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
-                "hidden": false,
-                "name": "Windows PowerShell"
-            },
-            {
-                "commandline": "%SystemRoot%\\System32\\cmd.exe",
-                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-                "hidden": false,
-                "name": "Command Prompt"
-            },
-            {
-                "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-                "hidden": false,
-                "name": "Azure Cloud Shell",
-                "source": "Windows.Terminal.Azure"
-            },
-            {
-                "guid": "{6ef278fa-dde8-58e6-8a74-b45707837621}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 18",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{e8a21591-567e-5e41-9dda-888c28ece8b4}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 18",
-                "source": "Windows.Terminal.VisualStudio"
-            }
-        ]
+
+       
     },
-    "schemes": 
-    [
+    "schemes": [
         {
             "background": "#071307",
             "black": "#071307",
@@ -104,7 +76,5 @@
             "yellow": "#90B080"
         }
     ],
-    "showTabsFullscreen": false,
-    "tabWidthMode": "equal",
     "themes": []
 }
