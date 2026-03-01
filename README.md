@@ -181,6 +181,10 @@ SJ the Sahil Joseph's Configurations
 - Download and Install Blender Latest.
 - Use Darkest Theme.
 
+## Unity Engine:
+- Download and Install Unity Engine.
+- Use Darkest Theme.
+
 ## Unreal Engine:
 - Download and Install Unreal Engine.
 - Use Darkest Theme.
