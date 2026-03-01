@@ -1,10 +1,13 @@
 /* Visual Studio Settings File */
 {
+  "environment.security.trust.locations": [
+    
+  ],
+  "environment.visualExperience.hideCopilotBadge": true,
   "windowsFormsDesigner.general.refactoring.enableRefactoringOnRename": true,
   "environment.visualExperience.useCompactSpacing": false,
-  "environment.visualExperience.hideCopilotBadge": true,
   "environment.autoRecover.backUpUnsavedChanges": false,
-  "environment.documents.showMiscFileProject": true,
+  "environment.documents.showMiscFileProject": false,
   "environment.tabs.documentTabs.minimumTabWidth": 200,
   "environment.tabs.documentTabs.maximumTabWidth": 200,
   "environment.tabs.documentTabs.showHideButtonInWell": true,
@@ -17,8 +20,8 @@
   "environment.tabs.documentTabs.showHideButtonInTabs": true,
   "projectsAndSolutions.locations.newProjectOrSolution": "C:\\Users\\sjthe\\Projects",
   "textEditor.general.audioCues": true,
-  "textEditor.general.display.bracePairColorization": false,
-  "textEditor.inlayHints.enable": "always",
+  "textEditor.general.display.bracePairColorization": true,
+  "textEditor.inlayHints.enable": "whilePressingHotKey",
   "textEditor.codeCompletions.general.codeCompletionsProviders": [
     "intellicode"
   ],
@@ -77,5 +80,35 @@
   "copilot.general.test.enableInitialCoverage": false,
   "languages.cpp.intelliSense.references.maxFindReferencesThreads": 3,
   "languages.cpp.intelliSense.maximumCachedTranslationUnits": 15,
-  "textEditor.general.display.highlightCurrentLine": true
+  "textEditor.general.display.highlightCurrentLine": true,
+  "environment.security.trust.enabled": false,
+  "textEditor.advanced.boxSelection": true,
+  "languages.cpp.intelliSense.enable64bitIntelliSense": true,
+  "languages.cpp.intelliSense.quickInfo.enableQISizeAlignmentAllSymbols": true,
+  "languages.cpp.intelliSense.refactoring.macroToConstexprSuggestionLevel": "suggestion",
+  "languages.cpp.intelliSense.diagnosticLogging.enableLogging": true,
+  "languages.cpp.codeStyle.formatting.indentation.indentBraces": false,
+  "languages.cpp.codeStyle.formatting.indentation.indentationReference": "innermost_parenthesis",
+  "languages.cpp.codeStyle.formatting.indentation.indentCaseContents": true,
+  "languages.cpp.codeStyle.formatting.indentation.indentLambdaBraces": false,
+  "languages.cpp.codeStyle.formatting.indentation.indentGotoLabels": "none",
+  "languages.cpp.codeStyle.formatting.spacing.spaceBeforeControlBlockParenthesis": true,
+  "languages.cpp.codeStyle.formatting.spacing.spaceBeforeBlockBrace": true,
+  "languages.cpp.codeStyle.formatting.spacing.spaceWithinInitListBraces": false,
+  "languages.cpp.codeStyle.formatting.spacing.preserveInitListSpace": true,
+  "languages.cpp.codeStyle.formatting.spacing.spaceBeforeBracket": false,
+  "languages.cpp.codeStyle.formatting.spacing.spaceWithinBrackets": false,
+  "languages.cpp.codeStyle.formatting.spacing.groupBrackets": true,
+  "languages.cpp.codeStyle.formatting.spacing.spaceAfterComma": true,
+  "languages.cpp.codeStyle.formatting.spacing.spaceAroundBinaryOperator": "insert",
+  "languages.cpp.codeStyle.formatting.spacing.spaceAroundAssignmentOperator": "insert",
+  "languages.cpp.codeStyle.formatting.spacing.pointerAlignment": "left",
+  "languages.cpp.codeStyle.formatting.spacing.spaceAroundConditionalOperator": "insert",
+  "languages.cpp.codeCleanup.includeCleanup.removeUnusedSuggestionLevel": "dimmed",
+  "languages.cpp.codeCleanup.includeCleanup.optimizeUnusedSuggestionLevel": "suggestion",
+  "languages.cpp.codeCleanup.includeCleanup.addMissingSuggestionLevel": "warning",
+  "languages.cpp.codeCleanup.includeCleanup.sortAfterEdits": true,
+  "languages.cpp.codeCleanup.includeCleanup.formatAfterEdits": true,
+  "languages.cpp.codeCleanup.sortIncludes.suggestionLevel": "suggestion",
+  "languages.cpp.codeAnalysis.enableCodeAnalysisLogging": true
 }
