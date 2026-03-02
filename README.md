@@ -207,8 +207,8 @@ SJ the Sahil Joseph's Configurations
 
 ## WhatsApp
 - Download and Install from Microsoft Store.
-- Disable Notifications when app is closed.
-- And only show taskbar dots even when app is opened.
+- Disable Notifications, only show taskbar number tag.
+- Keep WhatsApp active in taskbar right section.
 
 ## Mail Client:
 - Microsoft OutLook:
