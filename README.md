@@ -40,8 +40,7 @@ SJ the Sahil Joseph's Configurations
 - Taskbar should have almost every everyday use application pin.
 - Taskbar should contain apps icons, search bar, task view button, widgets, and always combine icons, and center alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
-- Desktop should have almost every application shortcut.
-- Desktop Icons Small.
+- Desktop should be empty, no icons at all.
 - Taskbar Size Standard, Not small.
 - Start Menu default doesn't matter.
 - Alt + Tab should work with application windows not with their tabs.
