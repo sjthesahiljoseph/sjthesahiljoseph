@@ -3,8 +3,6 @@
 <h1 align="center">SJ the Sahil Joseph</h1>
 <h3 align="center">Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE, VS Code)</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sjthesahiljoseph&label=Profile%20views&color=2090f0&style=flat-square" alt="sjthesahiljoseph" /> </p>
-
 - Website: sjthesahiljoseph.com
 
 - Email Address: sjthesahiljoseph@gmail.com
