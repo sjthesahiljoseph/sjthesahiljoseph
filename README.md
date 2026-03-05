@@ -124,7 +124,7 @@ SJ the Sahil Joseph's Configurations
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Other Windows below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- Visual Studio IDE Settings = sjthesahiljosephvisualstudio.vssettings & visualstudioide.settings.json.
+- Visual Studio IDE Settings = sjthesahiljoseph.vssettings & visualstudioide.settings.json.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
