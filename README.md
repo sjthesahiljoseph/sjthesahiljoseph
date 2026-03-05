@@ -44,7 +44,7 @@ SJ the Sahil Joseph's Configurations
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- Install and Setup Microsoft OneDrive.
+- UnInstall Microsoft OneDrive.
 - Rest Defaults.
 
 ## File Explorer:
@@ -54,11 +54,11 @@ SJ the Sahil Joseph's Configurations
 - Don't pin anything except defauts and "sjthe" folder and "Projects" folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
-## Microsoft Edge:
-- Install and Setup Microsoft Edge.
+## Google Chrome:
+- Download and Install Google Chrome.
 - Make this default for everything.
 - System Dark Theme default.
-- Bing Search Engine.
+- Google Search Engine.
 - New Tab Page = Custom sjnewtab.html.
 - Sign In & Sync.
 - Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
@@ -70,9 +70,10 @@ SJ the Sahil Joseph's Configurations
 - Rest Defaults.
 
 ## Backup:
-- Use Microsoft OneDrive as primary cloud storage.
+- Use Google Drive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Use Google Photos for Photos and Videos but organize.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
@@ -156,9 +157,8 @@ SJ the Sahil Joseph's Configurations
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Use Visual Studio Code for Rust/NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
 
-## Microsoft Office 360:
-- Download and Install and Setup Microsoft Office 360 (Word, Excel, PowerPoint, etc.. all).
-- Use Microsoft Office 360.
+## Google Workspace:
+- Use Google Workspace from Browser.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
@@ -208,8 +208,8 @@ SJ the Sahil Joseph's Configurations
 - Keep WhatsApp active in taskbar right section.
 
 ## Mail Client:
-- Microsoft OutLook:
-    - Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
+- Gmail:
+    - Use Gmail with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
 - Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
@@ -217,7 +217,7 @@ SJ the Sahil Joseph's Configurations
 - Payment Apps = From Mobile & Browser.
 
 ## Music:
-- MP3 Old way, on Microsoft OneDrive.
+- Local MP3 in Google Drive.
 - That's it.
 
 ## SJ Mobile:
