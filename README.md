@@ -132,7 +132,7 @@ SJ the Sahil Joseph's Configurations
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper, TabOut, Tailwind CSS IntelliSense, Prisma).
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Always Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -153,6 +153,7 @@ SJ the Sahil Joseph's Configurations
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Keymap for TabOut.
 - Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
+- Keymap Ctrl + K + Ctrl D = Format Document (same as Visual Studio IDE).
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Use Visual Studio Code for NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
