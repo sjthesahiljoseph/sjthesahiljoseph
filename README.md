@@ -59,7 +59,7 @@ SJ the Sahil Joseph's Configurations
 - Make this default for everything.
 - System Dark Theme default.
 - Google Search Engine.
-- New Tab Page = Custom sjnewtab.html.
+- New Tab Page = Default Google.
 - Sign In & Sync.
 - Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
 - Bookmarkbar important stuff.
