@@ -205,8 +205,8 @@ SJ the Sahil Joseph's Configurations
 
 ## WhatsApp
 - Download and Install from Microsoft Store.
-- Disable Notifications, only show taskbar number tag.
-- Keep WhatsApp active in taskbar right section.
+- Disable Notifications, only show taskbar number tag when app is open.
+- Disable what's app in background.
 
 ## Mail Client:
 - Gmail:
