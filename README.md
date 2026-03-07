@@ -126,6 +126,7 @@ SJ the Sahil Joseph's Configurations
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Other Windows below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
+- Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
 - Visual Studio IDE Settings = sjthesahiljoseph.vssettings & visualstudioide.settings.json.
 
 ## Google Workspace:
