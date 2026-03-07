@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE, VS Code)</h3>
+<h3 align="center">Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE)</h3>
 
 - Website: sjthesahiljoseph.com
 
@@ -99,7 +99,9 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Game Development with C#)).
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/Python/NodeJs (Desktop Development with C/C++, Game Development with C/C++, Game Development with C#, Python Development, NodeJs Developmen)).
+- Download and Install Python.
+- Download and Install NodeJs.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
