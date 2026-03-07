@@ -181,7 +181,7 @@ SJ the Sahil Joseph's Configurations
 
 ## Mail Client:
 - Gmail:
-    - Use Gmail with sjthesahiljoseph@gmail.com.
+	- Use Gmail with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
 - Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
