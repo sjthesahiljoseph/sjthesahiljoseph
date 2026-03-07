@@ -99,7 +99,7 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#/Python/NodeJs (Desktop Development with C/C++, Game Development with C/C++, Game Development with C#, Python Development, NodeJs Developmen)).
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/Python/NodeJs (Desktop Development with C/C++, Game Development with C/C++, Game Development with C#, Python Development, NodeJs Development)).
 - Download and Install Python.
 - Download and Install NodeJs.
 - Sign In using Microsoft / GitHub Account.
