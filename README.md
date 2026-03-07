@@ -35,8 +35,8 @@ SJ the Sahil Joseph's Configurations
 - Desktop & Lock Screen Wallpaper = Wallpaper.png.
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
-- Taskbar should have almost every everyday use application pin.
-- Taskbar should contain apps icons, search bar, task view button, widgets, and always combine icons, and center alignment.
+- Taskbar no app pins, only opened apps.
+- Taskbar should contain opened apps icons, search bar, task view button, widgets, and always combine icons, and center alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Desktop should be empty, no icons at all.
 - Taskbar Size Standard, Not small.
