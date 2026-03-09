@@ -99,8 +99,7 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#/Python/NodeJs (Desktop Development with C/C++, Game Development with C/C++, Game Development with C#, Python Development, NodeJs Development)).
-- Download and Install Python.
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/NodeJs (Everything related to C/C++/C#/NodeJs)).
 - Download and Install NodeJs.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
@@ -128,6 +127,38 @@ SJ the Sahil Joseph's Configurations
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
 - Visual Studio IDE Settings = sjthesahiljoseph.vssettings & visualstudioide.settings.json.
+
+## Visual Studio Code:
+- Download and Install Visual Studio Code.
+- Download and Install NodeJs manually.
+- Sign In using GitHub Account.
+- Sync.
+- Disable All AI related Features.
+- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Always Cursor: Line Cursor (|).
+- Solution Explorer and Git Change = Left Side.
+- Theme = Default Modern Dark.
+- Indent = Use tabs and 4 size.
+- Word Wrap Off.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- File Tabs in one line by recent sequence.
+- All formatting = Braces on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Automatically close "([{<...etc.
+- Disable Auto Backup File stuff.
+- Bracket Pair Colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- Use Debugger as much as possible.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Keymap for TabOut.
+- Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
+- Keymap Ctrl + K + Ctrl D = Format Document (same as Visual Studio IDE).
+- Output Window below, and auto hide.
+- Keep Powershell Terminal Open as well below, and auto hide.
+- Use Visual Studio Code for General Text Editing & NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
