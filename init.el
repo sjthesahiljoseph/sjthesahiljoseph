@@ -5,7 +5,7 @@
 (setq use-dialog-box nil)
 (setq echo-keystrokes nil)
 (global-hl-line-mode 0)
-(global-display-line-numbers-mode 1)
+(global-display-line-numbers-mode 0)
 (column-number-mode t)
 (when (bound-and-true-p tooltip-mode)
     (tooltip-mode -1))
@@ -45,7 +45,7 @@
 
 (setq frame-title-format '("SJ the Sahil Joseph's Writing System"))
 
-(setq window-icon-file "C:/Users/sjthe/Projects/sjthesahiljoseph/sjthesahiljoseph/emacs_icon.ico")
+(setq window-icon-file "C:/Users/sjthe/Projects/sjthesahiljoseph/emacs_icon.ico")
 
 (modify-all-frames-parameters `((icon-type . ,window-icon-file)))
 
@@ -104,7 +104,17 @@
     :defer t
     )
 
+(use-package csharp-mode
+	:ensure t
+    :defer t
+    )
+
 (use-package typescript-mode
+	:ensure t
+    :defer t
+    )
+
+(use-package python-mode
 	:ensure t
     :defer t
     )
@@ -135,7 +145,6 @@
 
 (setq c-basic-offset 4)
 (setq lisp-indent-offset 4)
-(setq c-default-style "linux")
 (setq-default c-indent-level 4)
 
 (add-hook 'dired-mode-hook #'dired-hide-details-mode)
@@ -237,7 +246,7 @@
 (global-set-key (kbd "<f7>") 'query-replace)
 (global-set-key (kbd "<f8>") 'eval-region)
 (global-set-key (kbd "<f9>") #'visual-line-mode)
-(global-set-key (kbd "<f10>") 'indent-whole-buffer)
+(global-set-key (kbd "<f10>") 'global-display-line-numbers-mode)
 (global-set-key (kbd "<f11>") 'toggle-frame-fullscreen)
 (global-set-key (kbd "<f12>") 'point-to-register)
 
@@ -250,18 +259,6 @@
 (global-set-key (kbd "<C-S-iso-lefttab>") 'previous-buffer)
 (global-set-key (kbd "<C-S-tab>") 'previous-buffer)
 
-(defun my-duplicate-line-or-region ()
-	(interactive)
-	(let (p1 p2)
-		(if (use-region-p)
-			(setq p1 (region-beginning) p2 (region-end))
-			(setq p1 (line-beginning-position) p2 (line-end-position)))
-		(save-excursion
-			(let ((text (buffer-substring p1 p2)))
-				(goto-char p2)
-				(newline)
-				(insert text)))))
 
-(global-set-key (kbd "C-d") 'my-duplicate-line-or-region)
 
 
