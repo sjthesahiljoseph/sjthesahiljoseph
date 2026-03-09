@@ -99,8 +99,8 @@ SJ the Sahil Joseph's Configurations
 - Use Git stuff from IDE or Text Editor or Terminal.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#/NodeJs (Everything related to C/C++/C#/NodeJs)).
-- Download and Install NodeJs.
+- Download and Install Visual Studio Community 2026 with (All C/C++/C#/NodeJs/Python (Everything related to C/C++/C#/NodeJs/Python)).
+- Download and Install NodeJs/Python manually.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -127,10 +127,12 @@ SJ the Sahil Joseph's Configurations
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
 - Visual Studio IDE Settings = sjthesahiljoseph.vssettings & visualstudioide.settings.json.
+- Create almost everything in Visual Studio IDE, but keep Visual Studio Code opened in the solution directory as well.
+- Write JavaScript/TypeScript/Python in Visual Stuio Code, but debug in Visual Studio IDE.
 
 ## Visual Studio Code:
 - Download and Install Visual Studio Code.
-- Download and Install NodeJs manually.
+- Download and Install NodeJs/Python manually.
 - Sign In using GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -158,7 +160,9 @@ SJ the Sahil Joseph's Configurations
 - Keymap Ctrl + K + Ctrl D = Format Document (same as Visual Studio IDE).
 - Output Window below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- Use Visual Studio Code for General Text Editing & NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
+- Use Visual Studio Code for General Text Editing & Python/NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
+- Create almost everything in Visual Studio IDE, but keep Visual Studio Code opened in the solution directory as well.
+- Write JavaScript/TypeScript/Python in Visual Stuio Code, but debug in Visual Studio IDE.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
