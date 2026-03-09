@@ -116,6 +116,7 @@ SJ the Sahil Joseph's Configurations
 - All formatting = Braces on next line.
 - PascalCase, camelCase for almost everything. For everything.
 - Automatically close "([{<...etc.
+- Always "Show all files" no filters.
 - Disable Auto Backup File stuff.
 - Bracket Pair Colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
