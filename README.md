@@ -142,6 +142,7 @@ SJ the Sahil Joseph's Configurations
 ## Python / NodeJs:
 - Download and Install Python / NodeJs.
 - Use Emacs for Python / NodeJs Development.
+- But keep open VS Code.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
