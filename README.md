@@ -113,7 +113,11 @@ SJ the Sahil Joseph's Configurations
 - Use Visual Studio IDE as a debugger, but write text code in Emacs.
 
 ## NodeJs & Python:
-- Download and Install NodeJs and Python.
+- Download and Install NodeJs & Python.
+
+## Android Studio & Flutter:
+- Download and Install Android Studio & Flutter.
+- Write Code in Emacs, but use Android Studio as an IDE.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
