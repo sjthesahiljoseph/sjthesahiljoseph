@@ -1,7 +1,7 @@
 
 
 <h1 align="center">SJ the Sahil Joseph</h1>
-<h3 align="center">Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE, VS Code)</h3>
+<h3 align="center">Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio IDE)</h3>
 
 - Website: sjthesahiljoseph.com
 
@@ -35,8 +35,8 @@ SJ the Sahil Joseph's Configurations
 - Desktop & Lock Screen Wallpaper = Wallpaper.png.
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
-- Taskbar no app pins, only opened apps.
-- Taskbar should contain opened apps icons, no search bar or icon, no task view button, no widgets, and always combine icons, and left alignment.
+- Taskbar should have almost every everyday use application pin.
+- Taskbar should contain pinned apps icons, no search bar or icon, no task view button, no widgets, and always combine icons, and left alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Desktop should be empty, no icons at all.
 - Taskbar Size Standard, Not small.
@@ -77,8 +77,8 @@ SJ the Sahil Joseph's Configurations
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Cascadia Mono 13 pt / 17 px.
-- Cursor: Bar Cursor (|). "#40ff40".
+- Always Fonts: Liberation Mono 13 pt / 17 px.
+- Cursor: Fat Box Cursor ([]). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -90,7 +90,7 @@ SJ the Sahil Joseph's Configurations
 - Always half Screen Size.
 - Color for all BG: #071307, FG: #90B080.
 - Font: Cascadia Mono 13 pt / 17 px.
-- Cursor: Bar Cursor (|). "#40ff40".
+- Cursor: Fat Box Cursor ([]). "#40ff40".
 - Use as many tabs.
 - Terminal Settings: terminal_settings.json.
 
@@ -100,103 +100,20 @@ SJ the Sahil Joseph's Configurations
 
 ## Emacs 30.2:
 - Download and Install Emacs.
-- Download and Install NodeJs/Python manually.
-- Sign In using Microsoft / GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = (VS Block Jumper).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Always "Show all files" no filters.
-- Disable Auto Backup File stuff.
-- Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Other Windows below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
-- Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
-- Visual Studio IDE Settings = sjthesahiljoseph.vssettings & visualstudioide.settings.json.
-- Create almost everything in Visual Studio IDE, but keep Visual Studio Code opened in the solution directory as well.
-- Write JavaScript/TypeScript/Python in Visual Stuio Code, but debug in Visual Studio IDE.
+- Emacs Config = init.el.
+- Make Symlink.
+- Write all text code in Emacs.
+- Use Visual Studio IDE as a debugger, but write text code in Emacs.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (All C/C++/C#/NodeJs/Python (Everything related to C/C++/C#/NodeJs/Python)).
-- Download and Install NodeJs/Python manually.
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Game Development with C#, Desktop Application Development with C/C++))).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
-- Disable All AI related Features.
-- Extensions = (VS Block Jumper).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Always "Show all files" no filters.
-- Disable Auto Backup File stuff.
-- Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Other Windows below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
-- Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
-- Visual Studio IDE Settings = sjthesahiljoseph.vssettings & visualstudioide.settings.json.
-- Create almost everything in Visual Studio IDE, but keep Visual Studio Code opened in the solution directory as well.
-- Write JavaScript/TypeScript/Python in Visual Stuio Code, but debug in Visual Studio IDE.
+- Write all text code in Emacs.
+- Use Visual Studio IDE as a debugger, but write text code in Emacs.
 
-## Visual Studio Code:
-- Download and Install Visual Studio Code.
-- Download and Install NodeJs/Python manually.
-- Sign In using GitHub Account.
-- Sync.
-- Disable All AI related Features.
-- Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
-- Always Cursor: Line Cursor (|).
-- Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
-- Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
-- All formatting = Braces on next line.
-- PascalCase, camelCase for almost everything. For everything.
-- Automatically close "([{<...etc.
-- Disable Auto Backup File stuff.
-- Bracket Pair Colorize.
-- Default Projects folder = C:\Users\sjthe\Projects.
-- Use Debugger as much as possible.
-- Disable Code Half Screen Preview stuff. (sticky scroll).
-- Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Keymap for TabOut.
-- Keymap Ctrl + D = Duplicate Line (same as Visual Studio IDE).
-- Keymap Ctrl + K + Ctrl D = Format Document (same as Visual Studio IDE).
-- Output Window below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
-- Use Visual Studio Code for General Text Editing & Python/NodeJs/JavaScript/TypeScript/HTML/CSS stuff.
-- Create almost everything in Visual Studio IDE, but keep Visual Studio Code opened in the solution directory as well.
-- Write JavaScript/TypeScript/Python in Visual Stuio Code, but debug in Visual Studio IDE.
+## NodeJs & Python:
+- Download and Install NodeJs and Python.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.
