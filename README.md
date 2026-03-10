@@ -89,7 +89,7 @@ SJ the Sahil Joseph's Configurations
 - Windows Terminal.
 - Always half Screen Size.
 - Color for all BG: #071307, FG: #90B080.
-- Font: Cascadia Mono 13 pt / 17 px.
+- Font: Liberation Mono 13 pt / 17 px.
 - Cursor: Fat Box Cursor ([]). "#40ff40".
 - Use as many tabs.
 - Terminal Settings: terminal_settings.json.
