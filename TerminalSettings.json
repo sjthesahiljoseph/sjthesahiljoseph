@@ -1,0 +1,81 @@
+{
+    "alwaysShowNotificationIcon": false,
+    "centerOnLaunch": true,
+    "copyFormatting": "none",
+    "copyOnSelect": false,
+
+	"keybindings": 
+    [
+        {
+            "id": "Terminal.CopyToClipboard",
+            "keys": "ctrl+c"
+        },
+        {
+            "id": "Terminal.PasteFromClipboard",
+            "keys": "ctrl+v"
+        },
+        {
+            "id": "Terminal.DuplicatePaneAuto",
+            "keys": "alt+shift+d"
+        }
+    ],
+
+    "minimizeToNotificationArea": false,
+
+    "newTabMenu": 
+    [
+        {
+            "type": "remainingProfiles"
+        }
+    ],
+
+    "profiles": 
+    {
+
+		"defaults": 
+        {
+            "colorScheme": "Love Is An Illusion",
+            "cursorShape": "bar",
+            "font": 
+            {
+                "cellHeight": "1",
+                "face": "Cascadia Mono",
+                "size": 13
+            },
+            "scrollbarState": "always",
+            "selectionBackground": "#0900FF"
+        }
+
+    },
+
+	"schemes": 
+    [
+        {
+            "background": "#071307",
+            "black": "#071307",
+            "blue": "#90B080",
+            "brightBlack": "#90B080",
+            "brightBlue": "#90B080",
+            "brightCyan": "#90B080",
+            "brightGreen": "#90B080",
+            "brightPurple": "#90B080",
+            "brightRed": "#90B080",
+            "brightWhite": "#90B080",
+            "brightYellow": "#90B080",
+            "cursorColor": "#40FF40",
+            "cyan": "#90B080",
+            "foreground": "#90B080",
+            "green": "#90B080",
+            "name": "Love Is An Illusion",
+            "purple": "#90B080",
+            "red": "#90B080",
+            "selectionBackground": "#FFFFFF",
+            "white": "#90B080",
+            "yellow": "#90B080"
+        }
+    ],
+	
+    "showTabsFullscreen": false,
+    "tabWidthMode": "equal",
+    "themes": []
+}
