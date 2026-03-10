@@ -115,10 +115,6 @@ SJ the Sahil Joseph's Configurations
 ## NodeJs & Python:
 - Download and Install NodeJs & Python.
 
-## Android Studio & Flutter:
-- Download and Install Android Studio & Flutter.
-- Write Code in Emacs, but use Android Studio as an IDE.
-
 ## Google Workspace:
 - Use Google Workspace from Browser.
 
