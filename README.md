@@ -88,36 +88,56 @@ SJ the Sahil Joseph's Configurations
 ## Terminal:
 - Windows Terminal.
 - Always half Screen Size.
-- Color for all BG: #071307, FG: #90B080.
+- Color for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
 - Font: Liberation Mono 13 pt / 17 px.
 - Cursor: Fat Box Cursor ([]). "#40ff40".
 - Use as many tabs.
-- Terminal Settings: terminal_settings.json.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
 - Use Git stuff from IDE or Text Editor or Terminal.
+
+## Code Style:
+- All formatting = Braces and stuff on next line.
+- PascalCase, camelCase for almost everything. For everything.
+- Indent = Use tabs and 4 size.
 
 ## Emacs 30.2:
 - Download and Install Emacs.
 - Emacs Config = init.el.
 - Make Symlink.
 - Write all text code in Emacs.
-- Use Visual Studio IDE as a debugger, but write text code in Emacs.
+- Use Visual Studio IDE / Visual Studio Code as a debugger or project manager, but write text code in Emacs.
 
-## Visual Studio Community 2026:
+## Visual Studio Community 2026 & Visual Studio Code:
 - Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Game Development with C#, Desktop Application Development with C/C++))).
+- Download and Install Visual Studio Code.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Write all text code in Emacs.
 - Use Visual Studio IDE as a debugger, but write text code in Emacs.
-
-## Android Studio / Flutter:
-- Download and Install Android Studio / Flutter.
-- Sign In using Google.
-- Sync.
-- Change fonts to Liberation Mono 17px, Fat Block Cursor ([]), That's it.
-- Use Android Studio as a Project Manager & Debugger. Write Code using Emacs.
+- Disable All AI related Features.
+- Visual Stufio IDE Extensions = (VS Block Jumper).
+- Visual Studio Code Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
+- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
+- Cursor: Line Cursor (|).
+- Solution Explorer and Git Change = Left Side.
+- Theme = Default Modern Dark.
+- Indent = Use tabs and 4 size.
+- Word Wrap Off.
+- Multiple Row Tab Off & Don't do anything with scroll wheel.
+- File Tabs in one line by recent sequence.
+- Don't automatically close "([{<...etc.
+- Always "Show all files" no filters.
+- Disable Auto Backup File stuff.
+- Disable bracket pair colorize.
+- Default Projects folder = C:\Users\sjthe\Projects.
+- Disable Code Half Screen Preview stuff. (sticky scroll).
+- Smooth Scrolling Off.
+- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
+- Other Windows below, and auto hide.
+- Keep Powershell Terminal Open as well below, and auto hide.
+- Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
 
 ## Python / NodeJs:
 - Download and Install Python / NodeJs.
