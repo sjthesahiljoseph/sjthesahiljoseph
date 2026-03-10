@@ -119,9 +119,9 @@ SJ the Sahil Joseph's Configurations
 - Change fonts to Liberation Mono 17px, Fat Block Cursor ([]), That's it.
 - Use Android Studio as a Project Manager & Debugger. Write Code using Emacs.
 
-## Python:
-- Download and Install Python.
-- Use Emacs for Python Development.
+## Python / NodeJs:
+- Download and Install Python / NodeJs.
+- Use Emacs for Python / NodeJs Development.
 
 ## Google Workspace:
 - Use Google Workspace from Browser.

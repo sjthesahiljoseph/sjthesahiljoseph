@@ -109,6 +109,11 @@
     :defer t
     )
 
+(use-package typescript-mode
+	:ensure t
+    :defer t
+    )
+
 (use-package python-mode
 	:ensure t
     :defer t
