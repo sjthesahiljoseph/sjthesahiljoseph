@@ -127,14 +127,28 @@
     (setcdr web-mode-map nil)
     )
 
+(use-package emmet-mode
+    :ensure t
+    :hook (web-mode . emmet-mode)
+    :config
+    (setq emmet-expand-jsx-className? t)
+    (setq emmet-self-closing-tag-style " /")
+    )
+
+(with-eval-after-load 'emmet-mode
+    (define-key emmet-mode-keymap (kbd "C-j") nil)
+    (define-key emmet-mode-keymap (kbd "<tab>") 'emmet-expand-line))
+
 (defun my-web-mode-hook ()
-	"Hooks for Web mode."
-	(setq web-mode-markup-indent-offset 4)
-	(setq web-mode-css-indent-offset 4)
-	(setq web-mode-code-indent-offset 4)
-	(setq web-mode-enable-auto-pairing nil)
-	)
-(add-hook 'web-mode-hook  'my-web-mode-hook)
+    "Hooks for Web mode."
+    (setq web-mode-markup-indent-offset 4)
+    (setq web-mode-css-indent-offset 4)
+    (setq web-mode-code-indent-offset 4)
+    (setq web-mode-enable-auto-pairing nil)
+    (when (string-match "\\.\\(jsx\\|tsx\\)\\'" (or buffer-file-name ""))
+        (setq-local emmet-expand-jsx-className? t)))
+
+(add-hook 'web-mode-hook 'my-web-mode-hook)
 
 (use-package python-mode
 	:ensure t
