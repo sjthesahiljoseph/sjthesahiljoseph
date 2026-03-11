@@ -14,6 +14,8 @@
 
 (cua-mode t)
 
+(global-set-key (kbd "<escape>") 'keyboard-quit)
+
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
 
 (split-window-horizontally)
