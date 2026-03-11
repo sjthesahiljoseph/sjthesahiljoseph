@@ -35,11 +35,11 @@
 		"defaults": 
         {
             "colorScheme": "Love Is An Illusion",
-            "cursorShape": "bar",
+            "cursorShape": "filledBox",
             "font": 
             {
                 "cellHeight": "1",
-                "face": "Cascadia Mono",
+                "face": "Liberation Mono",
                 "size": 13
             },
             "scrollbarState": "always",
