@@ -54,7 +54,7 @@
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Liberation Mono 13 pt / 17 px.
-- Cursor: Line Cursor (|). "#40ff40".
+- Cursor: Wherever possible, Fat Bar Cursor ([]). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -110,7 +110,7 @@
 - Always half Screen Size.
 - Color for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
 - Font: Liberation Mono 13 pt / 17 px.
-- Cursor: Line Cursor (|). "#40ff40".
+- Cursor: Wherever possible, Fat Bar Cursor ([]). "#40ff40".
 - Use as many tabs.
 - Settings = TerminalSettings.json.
 
