@@ -96,7 +96,7 @@
 - VSC: Ctrl + D to duplicate Lines.
 - VSC: Ctrl + K Ctrl D to format document.
 - VS: Settings = VsSettings.vssettings & VsSettings.json.
-- VSC: Settings = VsCodeSettings.json.
+- VSC: Settings = VsCodeSettings.json, Keymaps = VsCodeKeymaps.json.
 
 ## Python / NodeJs:
 - Download and Install Python / NodeJs.
