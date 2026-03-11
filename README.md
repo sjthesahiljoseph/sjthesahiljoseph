@@ -62,7 +62,7 @@
 - Win + Search = Search Application to launch or Start Menu.
 
 ## Visual Studio Community 2026 & Visual Studio Code:
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Game Development with C#, Desktop Application Development with C/C++)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (All stuff in C/C++/C#)).
 - Download and Install Visual Studio Code.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
@@ -101,6 +101,7 @@
 ## Python / NodeJs:
 - Download and Install Python / NodeJs.
 - Use Visual Studio Code for Python / NodeJs.
+- But manage Python / NodeJs from Visual Studio IDE.
 
 ## Terminal:
 - Windows Terminal.
