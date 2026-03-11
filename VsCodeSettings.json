@@ -37,7 +37,7 @@
         "editor.lineNumbers": "on"
     },
     "editor.fontWeight": "normal",
-    "editor.guides.bracketPairs": false,
+    "editor.guides.bracketPairs": true,
     "editor.stickyScroll.maxLineCount": 1,
     "terminal.integrated.stickyScroll.enabled": false,
     "workbench.tree.enableStickyScroll": false,
@@ -68,9 +68,10 @@
         "editor.wordWrap": "off"
     },
 	"editor.detectIndentation": false,
-	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": false,
 	"workbench.editor.titleScrollbarVisibility": "visible",
 	"editor.acceptSuggestionOnEnter": "off",
 	"editor.quickSuggestions": false,
-	"workbench.settings.editor": "json"
+	"workbench.settings.editor": "json",
+	"editor.bracketPairColorization.enabled": true
 }

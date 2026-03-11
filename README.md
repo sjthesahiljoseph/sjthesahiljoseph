@@ -62,7 +62,7 @@
 - Win + Search = Search Application to launch or Start Menu.
 
 ## Visual Studio Community 2026 & Visual Studio Code:
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Game Development with C#, Desktop Application Development with C/C++))).
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Game Development with C#, Desktop Application Development with C/C++)).
 - Download and Install Visual Studio Code.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
@@ -77,20 +77,20 @@
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - File Tabs in one line by recent sequence.
-- Don't automatically close "([{<...etc.
+- Automatically close "([{<...etc.
 - All formatting = Braces and stuff on next line.
 - PascalCase, camelCase for almost everything. For everything.
 - Indent = Use tabs and 4 size.
 - Always "Show all files" no filters.
 - Disable Auto Backup File stuff.
-- Disable bracket pair colorize.
+- Enable bracket pair colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Other Windows below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
-- Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard untill Find)).
+- Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
 - Only show code intellisense suggestions when press Ctrl + Space.
 - Only accept code intellisense suggestions when press "Tab". "Enter" for new line always.
 - VSC: Ctrl + D to duplicate Lines.
