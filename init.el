@@ -113,10 +113,28 @@
     :defer t
     )
 
-(use-package typescript-mode
-	:ensure t
-    :defer t
+(use-package web-mode
+    :ensure t
+    :defer
+    :mode
+    (
+        ("\\.jsx\\'" . web-mode)
+        ("\\.tsx\\'" . web-mode)
+        ("\\.ts\\'"  . web-mode)
+        ("\\.css\\'" . web-mode)
+        )
+    :config
+    (setcdr web-mode-map nil)
     )
+
+(defun my-web-mode-hook ()
+	"Hooks for Web mode."
+	(setq web-mode-markup-indent-offset 4)
+	(setq web-mode-css-indent-offset 4)
+	(setq web-mode-code-indent-offset 4)
+	(setq web-mode-enable-auto-pairing nil)
+	)
+(add-hook 'web-mode-hook  'my-web-mode-hook)
 
 (use-package python-mode
 	:ensure t
@@ -262,6 +280,5 @@
 (global-set-key (kbd "<C-tab>") 'next-buffer)
 (global-set-key (kbd "<C-S-iso-lefttab>") 'previous-buffer)
 (global-set-key (kbd "<C-S-tab>") 'previous-buffer)
-
 
 
