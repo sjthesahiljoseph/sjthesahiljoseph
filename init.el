@@ -12,6 +12,8 @@
 
 (global-subword-mode t)
 
+(cua-mode t)
+
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
 
 (split-window-horizontally)
