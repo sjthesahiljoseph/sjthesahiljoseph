@@ -189,7 +189,7 @@
 (setq-default tab-always-indent t)
 (setq backward-delete-char-untabify-method 'hungry)
 (setq-default electric-indent-inhibit t)
-
+(setq c-default-style "allman")
 (setq c-basic-offset 4)
 (setq lisp-indent-offset 4)
 (setq-default c-indent-level 4)
