@@ -101,9 +101,9 @@ Game & Game Engine Developer: (C/C++, Rust, C#, Custom Engine, Unity, Unreal, Op
 - Use Visual Studio IDE as a debugger.
 - Always use build.bat file for code compilation or execution.
 
-## Python / NodeJs / Rust:
-- Download and Install Python / NodeJs / Rust.
-- Use Emacs for Python / NodeJs / Rust.
+## Python / Rust:
+- Download and Install Python / Rust.
+- Use Emacs for Python / Rust.
 
 ## Terminal:
 - Windows Terminal.

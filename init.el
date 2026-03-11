@@ -123,48 +123,44 @@
     :defer
     :mode
     (
-        ("\\.jsx\\'" . web-mode)
-        ("\\.tsx\\'" . web-mode)
-        ("\\.ts\\'"  . web-mode)
-        ("\\.css\\'" . web-mode)
+		("\\.css\\'" . web-mode)
+        ("\\.html?\\'" . web-mode)
+		("\\.js\\'" . web-mode)
+		("\\.ts\\'" . web-mode)
+        ("\\.djhtml\\'" . web-mode)
         )
     :config
     (setcdr web-mode-map nil)
-    )
+	(setq web-mode-engines-alist
+        '(("django" . "\\.html?\\'")
+			 ("django" . "\\.djhtml\\'")))
+	)
 
 (use-package emmet-mode
-    :ensure t
-    :hook (web-mode . emmet-mode)
-    :config
-    (setq emmet-self-closing-tag-style " /")
-    )
+	:ensure t
+	:hook (web-mode . emmet-mode)
+	:config
+	(setq emmet-self-closing-tag-style " /")
+	)
 
 (with-eval-after-load 'emmet-mode
-    (define-key emmet-mode-keymap (kbd "C-j") nil)
-    (define-key emmet-mode-keymap (kbd "<tab>") 'emmet-expand-line))
+	(define-key emmet-mode-keymap (kbd "C-j") nil)
+	(define-key emmet-mode-keymap (kbd "<tab>") 'emmet-expand-line))
 
 (defun my-web-mode-hook ()
-    "Hooks for Web mode."
-    (setq web-mode-markup-indent-offset 4)
-    (setq web-mode-css-indent-offset 4)
-    (setq web-mode-code-indent-offset 4)
-    (setq web-mode-enable-auto-pairing nil)
-    (when (string-match "\\.\\(jsx\\|tsx\\)\\'" (or buffer-file-name ""))
-        (setq-local emmet-expand-jsx-className? t)
-        (setq-local emmet-expand-jsx-className? t))) ;; set twice forces it
+	"Hooks for Web mode."
+	(setq web-mode-markup-indent-offset 4)
+	(setq web-mode-css-indent-offset 4)
+	(setq web-mode-code-indent-offset 4)
+	(setq web-mode-enable-auto-pairing nil)
+	)
 
 (add-hook 'web-mode-hook 'my-web-mode-hook)
 
-(add-hook 'emmet-mode-hook
-    (lambda ()
-        (when (string-match "\\.\\(jsx\\|tsx\\)\\'" (or buffer-file-name ""))
-            (setq-local emmet-expand-jsx-className? t))))
-
-
 (use-package python-mode
 	:ensure t
-    :defer t
-    )
+	:defer t
+	)
 
 (use-package colorful-mode
 	:ensure t
@@ -197,89 +193,89 @@
 (add-hook 'dired-mode-hook #'dired-hide-details-mode)
 (put 'dired-find-alternate-file 'disabled nil)
 (with-eval-after-load 'dired
-    (define-key dired-mode-map (kbd "RET") 'dired-find-alternate-file)
-    (define-key dired-mode-map (kbd "/") 
-        (lambda () (interactive) (find-alternate-file "..")))
-    )
+	(define-key dired-mode-map (kbd "RET") 'dired-find-alternate-file)
+	(define-key dired-mode-map (kbd "/") 
+		(lambda () (interactive) (find-alternate-file "..")))
+	)
 
 (defun indent-whole-buffer ()
-    "Indent the entire buffer."
-    (interactive)
-    (indent-region (point-min) (point-max)))
+	"Indent the entire buffer."
+	(interactive)
+	(indent-region (point-min) (point-max)))
 
 (setq isearch-lazy-highlight nil)
 
 (global-set-key (kbd "M-1")
-    (lambda ()
-        (interactive)
-        (point-to-register ?1)
-        (message "Saved position to register 1")))
+	(lambda ()
+		(interactive)
+		(point-to-register ?1)
+		(message "Saved position to register 1")))
 
 (global-set-key (kbd "M-2")
-    (lambda ()
-        (interactive)
-        (point-to-register ?2)
-        (message "Saved position to register 2")))
+	(lambda ()
+		(interactive)
+		(point-to-register ?2)
+		(message "Saved position to register 2")))
 
 (global-set-key (kbd "M-3")
-    (lambda ()
-        (interactive)
-        (point-to-register ?3)
-        (message "Saved position to register 3")))
+	(lambda ()
+		(interactive)
+		(point-to-register ?3)
+		(message "Saved position to register 3")))
 
 (global-set-key (kbd "M-4")
-    (lambda ()
-        (interactive)
-        (point-to-register ?4)
-        (message "Saved position to register 4")))
+	(lambda ()
+		(interactive)
+		(point-to-register ?4)
+		(message "Saved position to register 4")))
 
 (global-set-key (kbd "C-1")
-    (lambda ()
-        (interactive)
-        (jump-to-register ?1)))
+	(lambda ()
+		(interactive)
+		(jump-to-register ?1)))
 
 (global-set-key (kbd "C-2")
-    (lambda ()
-        (interactive)
-        (jump-to-register ?2)))
+	(lambda ()
+		(interactive)
+		(jump-to-register ?2)))
 
 (global-set-key (kbd "C-3")
-    (lambda ()
-        (interactive)
-        (jump-to-register ?3)))
+	(lambda ()
+		(interactive)
+		(jump-to-register ?3)))
 
 (global-set-key (kbd "C-4")
-    (lambda ()
-        (interactive)
-        (jump-to-register ?4)))
+	(lambda ()
+		(interactive)
+		(jump-to-register ?4)))
 
 (setq kill-do-not-save-duplicates t)
 (setq save-interprogram-paste-before-kill nil)
 (setq select-enable-clipboard t)
 
 (defun suppress-kill-ring (orig-fun &rest args)
-    "Prevent text from being saved to the kill-ring."
-    (let ((kill-ring nil)
-             (kill-ring-yank-pointer nil)
-             (interprogram-cut-function nil))
-        (apply orig-fun args)))
+	"Prevent text from being saved to the kill-ring."
+	(let ((kill-ring nil)
+			 (kill-ring-yank-pointer nil)
+			 (interprogram-cut-function nil))
+		(apply orig-fun args)))
 
 (advice-add 'kill-word :around #'suppress-kill-ring)
 (advice-add 'backward-kill-word :around #'suppress-kill-ring)
 
 (use-package move-text
-    :ensure t
-    )
+	:ensure t
+	)
 
 (global-set-key (kbd "M-<up>") 'move-text-up)
 (global-set-key (kbd "M-<down>") 'move-text-down)
 
 (defun indent-region-advice (&rest ignored)
-    (let ((deactivate deactivate-mark))
-        (if (region-active-p)
-            (indent-region (region-beginning) (region-end))
-            (indent-region (line-beginning-position) (line-end-position)))
-        (setq deactivate-mark deactivate)))
+	(let ((deactivate deactivate-mark))
+		(if (region-active-p)
+			(indent-region (region-beginning) (region-end))
+			(indent-region (line-beginning-position) (line-end-position)))
+		(setq deactivate-mark deactivate)))
 
 (advice-add 'move-text-down :after 'indent-region-advice)
 (advice-add 'move-text-up :after 'indent-region-advice)
