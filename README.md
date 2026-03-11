@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
+Game & Game Engine Developer: (C/C++, C#, Rust, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -101,9 +101,9 @@ Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, 
 - Use Visual Studio IDE as a debugger.
 - Always use build.bat file for code compilation or execution.
 
-## Python / NodeJs:
-- Download and Install Python / NodeJs.
-- Use Emacs for Python / NodeJs.
+## Python / NodeJs / Rust:
+- Download and Install Python / NodeJs / Rust.
+- Use Emacs for Python / NodeJs / Rust.
 
 ## Terminal:
 - Windows Terminal.
