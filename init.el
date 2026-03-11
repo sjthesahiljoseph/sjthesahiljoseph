@@ -131,7 +131,6 @@
     :ensure t
     :hook (web-mode . emmet-mode)
     :config
-    (setq emmet-expand-jsx-className? t)
     (setq emmet-self-closing-tag-style " /")
     )
 
@@ -146,9 +145,16 @@
     (setq web-mode-code-indent-offset 4)
     (setq web-mode-enable-auto-pairing nil)
     (when (string-match "\\.\\(jsx\\|tsx\\)\\'" (or buffer-file-name ""))
-        (setq-local emmet-expand-jsx-className? t)))
+        (setq-local emmet-expand-jsx-className? t)
+        (setq-local emmet-expand-jsx-className? t))) ;; set twice forces it
 
 (add-hook 'web-mode-hook 'my-web-mode-hook)
+
+(add-hook 'emmet-mode-hook
+    (lambda ()
+        (when (string-match "\\.\\(jsx\\|tsx\\)\\'" (or buffer-file-name ""))
+            (setq-local emmet-expand-jsx-className? t))))
+
 
 (use-package python-mode
 	:ensure t
