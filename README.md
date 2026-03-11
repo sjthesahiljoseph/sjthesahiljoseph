@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-	Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE, VS Code)
+	Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio IDE)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -53,7 +53,7 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Cascadia Mono 13 pt / 17 px.
+- Always Fonts: Liberation Mono 13 pt / 17 px.
 - Cursor: Line Cursor (|). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -61,15 +61,13 @@
 - Learn the workspace. Learn & Create the keymaps. And use as much keymaps as possible. Master them.
 - Win + Search = Search Application to launch or Start Menu.
 
-## Visual Studio Community 2026 & Visual Studio Code:
-- Download and Install Visual Studio Community 2026 with (C/C++/C#/NodeJs/Python (All stuff in C/C++/C#/NodeJs/Python)).
-- Download and Install Visual Studio Code.
+## Visual Studio Community 2026:
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Game Development with Unity)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- VS: Extensions = (VS Block Jumper).
-- VSC: Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Extensions = (VS Block Jumper).
+- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
 - Cursor: Line Cursor (|).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Default Modern Dark.
@@ -91,30 +89,34 @@
 - Other Windows below, and auto hide.
 - Keep Powershell Terminal Open as well below, and auto hide.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
-- Only show code intellisense suggestions when press Ctrl + Space.
+- Only show code intellisense suggestions when press Ctrl + Space, otherwise, no LSP suggestions.
 - Only accept code intellisense suggestions when press "Tab". "Enter" for new line always.
-- VSC: Ctrl + D to duplicate Lines.
-- VSC: Ctrl + K Ctrl D to format document.
-- VS: Settings = VsSettings.vssettings & VsSettings.json.
-- VSC: Settings = VsCodeSettings.json, Keymaps = VsCodeKeymaps.json.
+- Settings = VsSettings.vssettings & VsSettings.json.
+- Use Visual Studio IDE as a debugger, or if needed as a project manager, But write code in Emacs.
+
+## Emacs 30.2:
+- Download and Install Emacs.
+- Config = init.el. Make symlink.
+- Write almost everything in Emacs.
+- Use Visual Studio IDE as a debugger.
+- Always use build.bat file for code compilation or execution.
 
 ## Python / NodeJs:
 - Download and Install Python / NodeJs.
-- Use Visual Studio Code for Python / NodeJs.
-- But manage Python / NodeJs from Visual Studio IDE.
+- Use Emacs for Python / NodeJs.
 
 ## Terminal:
 - Windows Terminal.
 - Always half Screen Size.
 - Color for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Font: Cascadia Mono 13 pt / 17 px.
+- Font: Liberation Mono 13 pt / 17 px.
 - Cursor: Line Cursor (|). "#40ff40".
 - Use as many tabs.
 - Settings = TerminalSettings.json.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
-- Use Git stuff from IDE or Text Editor or Terminal.
+- Use Git stuff from Terminal.
 
 ## File Explorer:
 - Default Windows File Explorer.

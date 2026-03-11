@@ -1,7 +1,7 @@
 {
-    "editor.fontFamily": "\"Cascadia Mono\"",
+    "editor.fontFamily": "\"Liberation Mono\"",
     "editor.fontSize": 17,
-    "terminal.integrated.fontFamily": "\"Cascadia Mono\"",
+    "terminal.integrated.fontFamily": "\"Liberation Mono\"",
     "terminal.integrated.fontSize": 17,
     "editor.lineHeight": 0,
     "workbench.startupEditor": "none",
