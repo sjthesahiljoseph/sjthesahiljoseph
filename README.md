@@ -62,7 +62,7 @@
 - Win + Search = Search Application to launch or Start Menu.
 
 ## Visual Studio Community 2026 & Visual Studio Code:
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (All stuff in C/C++/C#)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C#/NodeJs/Python (All stuff in C/C++/C#/NodeJs/Python)).
 - Download and Install Visual Studio Code.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
