@@ -298,9 +298,24 @@
 (global-set-key (kbd "C-z") 'undo)
 (global-set-key (kbd "C-S-z") 'undo-redo)
 
-(global-set-key (kbd "<C-tab>") 'next-buffer)
-(global-set-key (kbd "<C-S-iso-lefttab>") 'previous-buffer)
-(global-set-key (kbd "<C-S-tab>") 'previous-buffer)
+(defun my/next-file-buffer ()
+  (interactive)
+  (let ((start (current-buffer)))
+    (next-buffer)
+    (while (and (not (buffer-file-name))
+                (not (eq (current-buffer) start)))
+      (next-buffer))))
 
+(defun my/prev-file-buffer ()
+  (interactive)
+  (let ((start (current-buffer)))
+    (previous-buffer)
+    (while (and (not (buffer-file-name))
+                (not (eq (current-buffer) start)))
+      (previous-buffer))))
+
+(global-set-key (kbd "<C-tab>") 'my/next-file-buffer)
+(global-set-key (kbd "<C-S-iso-lefttab>") 'my/prev-file-buffer)
+(global-set-key (kbd "<C-S-tab>") 'my/prev-file-buffer)
 
 
