@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
+	Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -26,8 +26,8 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 
 ## Operating System
 - Windows 11 Pro x64.
-- Dark mode everywhere.
-- Blue Dark Theme.
+- Light mode everywhere.
+- Blue Light Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Update Windows & Apps.
@@ -36,11 +36,11 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
 - Turn Off Timeline Suggestions.
-- Desktop & Lock Screen Wallpaper = Wallpaper.png.
+- Desktop & Lock Screen Wallpaper = Default Light Blue Desktop & Blue Wallpaper Lock.
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
-- Taskbar should contain pinned apps icons, no search bar or icon, no task view button, no widgets, and always combine icons, and left alignment.
+- Taskbar should contain pinned apps icons, search bar, task view button, widgets icon, and always combine icons, and center alignment.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Desktop should be empty, no icons at all.
 - Taskbar Size Standard, Not small.
@@ -48,13 +48,13 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- UnInstall Microsoft OneDrive.
+- Install & Setup Microsoft OneDrive.
 - Rest Defaults.
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Liberation Mono 13 pt / 17 px.
-- Cursor: Wherever possible, Fat Bar Cursor ([]). "#40ff40".
+- Always Fonts: Cascadia Mono 13 pt / 17 px.
+- Cursor: Wherever possible, Line Bar Cursor (|). "#40ff40".
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -62,15 +62,16 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Win + Search = Search Application to launch or Start Menu.
 
 ## Visual Studio Community 2026:
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Game Development with Unity)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C#/TypeScript/JavaScript/Python (Everything)).
+- Download and Install Python, NodeJs.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
 - Extensions = (VS Block Jumper).
-- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
-- Cursor: Line Cursor (|).
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
+- Theme = Default Modern Light.
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -92,27 +93,14 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Only show code intellisense suggestions when press Ctrl + Space, otherwise, no LSP suggestions.
 - Only accept code intellisense suggestions when press "Tab". "Enter" for new line always.
 - Settings = VsSettings.vssettings & VsSettings.json.
-- Use Visual Studio IDE as a debugger, or if needed as a project manager, But write code in Emacs.
-
-## Emacs 30.2:
-- Download and Install Emacs.
-- Config = init.el. Make symlink.
-- Write almost everything in Emacs.
-- Use Visual Studio IDE as a debugger.
-- Always use build.bat file for code compilation or execution.
-
-## Python / Rust:
-- Download and Install Python / Rust.
-- Use Emacs for Python / Rust.
 
 ## Terminal:
 - Windows Terminal.
 - Always half Screen Size.
 - Color for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Font: Liberation Mono 13 pt / 17 px.
-- Cursor: Wherever possible, Fat Bar Cursor ([]). "#40ff40".
+- Font: Cascadia Mono 13 pt / 17 px.
+- Cursor: Fat Line Bar Cursor (|). "#40ff40".
 - Use as many tabs.
-- Settings = TerminalSettings.json.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
@@ -128,12 +116,12 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 ## Google Chrome:
 - Download and Install Google Chrome.
 - Make this default for everything.
-- System Dark Theme default.
+- System Light Theme default.
 - Google Search Engine.
 - New Tab Page = Default Google.
 - Sign In & Sync.
 - Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
-- Bookmarkbar important stuff.
+- Bookmark bar important stuff.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
@@ -141,13 +129,13 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Rest Defaults.
 
 ## Backup:
-- Use Google Drive as primary cloud storage.
+- Use Microsoft OneDrive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
-- Use Google Photos for Photos and Videos but organize.
 
-## Google Workspace:
-- Use Google Workspace from Browser.
+## Microsoft Office 360:
+- Download and Install Microsoft Office 360.
+- Use Microsoft Office 360 apps like Excel, Word, PowerPoint, etc...
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
@@ -186,7 +174,6 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 
 ## Reaper:
 - Download and Install Reaper.
-- Use Darkest Theme.
 
 ## 7zip:
 - Download and Install 7zip.
@@ -197,8 +184,8 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Disable what's app in background.
 
 ## Mail Client:
-- Gmail:
-	- Use Gmail with sjthesahiljoseph@gmail.com.
+- Microsoft OutLook:
+	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
 - Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
@@ -206,17 +193,17 @@ Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, 
 - Payment Apps = From Mobile & Browser.
 
 ## Music:
-- Local MP3 in Google Drive.
+- Local MP3 in Microsoft OneDrive.
 - That's it.
 
 ## SJ Mobile:
 - Always Light Mode.
-- Desktop & Lock Screen Wallpaper = Wallpaper.png.
+- Desktop & Lock Screen Wallpaper = Default Desktop & Lock Wallpaper.
 - Ringtone = ringtone.mp3.
 - Notification = notification.mp3.
-- Password + Finger Print Lock.
+- Lock = Password + Finger Print Lock.
 - Empty Home Screen, only one home screen and a clock widget only.
-- Google Authenticator = Authenticator Application.
+- Microsoft Authenticator = Authenticator Application.
 - Ring Attached to natural Middle Finger Hold Position.
 - Keep Wired Handfree in the pocket.
 
