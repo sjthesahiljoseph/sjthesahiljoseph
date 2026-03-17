@@ -113,12 +113,12 @@
 - Don't pin anything except defauts and "sjthe" folder and "Projects" folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
-## Google Chrome:
-- Download and Install Google Chrome.
+## Microsoft Edge:
+- Setup Microsoft Edge.
 - Make this default for everything.
 - System Light Theme default.
-- Google Search Engine.
-- New Tab Page = Default Google.
+- Bing Search Engine.
+- New Tab Page = Default but empty.
 - Sign In & Sync.
 - Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
 - Bookmark bar important stuff.
