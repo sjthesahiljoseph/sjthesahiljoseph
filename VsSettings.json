@@ -107,5 +107,14 @@
   "languages.cpp.codeCleanup.includeCleanup.formatAfterEdits": true,
   "languages.cpp.codeCleanup.sortIncludes.suggestionLevel": "suggestion",
   "languages.cpp.codeAnalysis.enableCodeAnalysisLogging": true,
-  "environment.tabs.previewTab.singleClickPreviewInSolutionExplorer": false
+  "environment.tabs.previewTab.singleClickPreviewInSolutionExplorer": false,
+  "environment.visualExperience.colorTheme": "light",
+  "textEditor.advanced.defaultCompletionMode": "tabOnly",
+  "textEditor.codeCompletions.general.codeCompletionsInvocation": "manual",
+  "languages.defaults.general.showCompletionOnTyping.autoListMembers": false,
+  "languages.csharp.intellisense.triggerCompletionOnTypingLetters": false,
+  "languages.csharp.intellisense.triggerCompletionInArgumentLists": false,
+  "languages.cpp.intelliSense.enableIntelliSense": true,
+  "languages.cpp.intelliSense.completionList.selectMatchOnInvocation": false,
+  "languages.cpp.intelliSense.completionList.showSuggestionsWhileTyping": false
 }
