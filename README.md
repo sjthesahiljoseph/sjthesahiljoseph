@@ -105,8 +105,10 @@
 - Make this default.
 - Always half Screen Size.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
+- Set this theme as default.
 - Font: Cascadia Mono 13 pt / 17 px.
 - Cursor: Fat Line Bar Cursor (|). "#40ff40".
+- Scrollbar Always Visible.
 - Use as many tabs.
 
 ## Git for Windows:
