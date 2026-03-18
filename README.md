@@ -16,8 +16,6 @@
 
 - Instagram: instagram.com/@sjthesahiljoseph
 
-- LinkedIn: linkedin.com/in/sjthesahiljoseph
-
 <details>
 
 <summary>
@@ -40,6 +38,7 @@
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
+- Taskbar pin order: (Terminal, Edge, File Explorer, Visual Studio IDE, Adobe Photoshop).
 - Taskbar should contain pinned apps icons, search bar, task view button, widgets icon, and always combine icons, and center alignment.
 - Taskbar show notification bell icon. And no notifications or reminders on lock screen.
 - Other system tray icons = Enable all. No Dropdown stuff.
