@@ -100,7 +100,16 @@
 	"languages.defaults.tabs.character": "tab",
 	"languages.defaults.general.wordWrap": false,
 	"textEditor.inlayHints.enable": "whilePressingHotKey",
-	"textEditor.general.audioCues": true
+	"textEditor.general.audioCues": true,
 
-
+	"languages.cpp.intelliSense.references.maxFindReferencesThreads": 3,
+	"languages.cpp.intelliSense.maximumCachedTranslationUnits": 15,
+	"languages.cpp.suppressBrowsingInfoBar": true,
+	"textEditor.codeCompletions.preferences.acceptPartialSuggestionWord": false,
+	"textEditor.codeCompletions.preferences.acceptPartialSuggestionLine": false,
+	"languages.csharp.intellisense.triggerCompletionOnDeletion": true,
+	"languages.csharp.intellisense.returnKeyCompletionBehavior": "always",
+	"languages.cpp.intelliSense.completionList.showInaccessible": true,
+	"languages.cpp.intelliSense.singleFile.enableIntelliSenseSquigglesForSingleFiles": false,
+	"languages.cpp.intelliSense.singleFile.showErrorsInErrorList": false
 }
