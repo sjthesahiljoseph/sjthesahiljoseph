@@ -24,8 +24,8 @@
 
 ## Operating System
 - Windows 11 Pro x64.
-- Light mode everywhere.
-- Blue Light Theme.
+- Dark mode everywhere.
+- Blue Dark Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Update Windows & Apps.
@@ -34,7 +34,7 @@
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
 - Turn Off Timeline Suggestions.
-- Desktop & Lock Screen Wallpaper = Default Light Blue Desktop & Blue Wallpaper Lock.
+- Desktop & Lock Screen Wallpaper = Default Dark Blue Desktop & Blue Wallpaper Lock.
 - Turn Off Notifications on Lock screen and other stuff.
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
@@ -77,7 +77,7 @@
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Light.
+- Theme = Default Modern Dark.
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -129,7 +129,7 @@
 - Setup Microsoft Edge.
 - Always Full Screen Size Launch.
 - Make this default for everything.
-- System Light Theme default.
+- System Dark Theme default.
 - Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
@@ -202,6 +202,7 @@
 ## WhatsApp
 - Download and Install from Microsoft Store.
 - Disable Notifications, only show taskbar number tag when app is open.
+- Dark theme.
 - Disable what's app in background.
 - Always Half Screen Size Launch.
 
@@ -220,7 +221,7 @@
 - That's it.
 
 ## SJ Mobile:
-- Always Light Mode.
+- Always Dark Mode.
 - Desktop & Lock Screen Wallpaper = Default Desktop & Lock Wallpaper.
 - Ringtone = ringtone.mp3.
 - Notification = notification.mp3.
