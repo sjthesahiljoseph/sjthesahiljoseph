@@ -73,7 +73,7 @@
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper).
+- Extensions = (None).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -93,8 +93,7 @@
 - Default Projects folder = C:\Users\sjthe\Projects.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
-- Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
-- Other Windows below, and auto hide.
+- Other Windows below, and no auto hide, height = 5 lines.
 - Keep PowerShell Terminal Open as well below, not auto hide, 5 line size.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
 - Show code IntelliSense suggestions as type.
