@@ -133,7 +133,7 @@
 - Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = ("Vimium", "UBlockOrigin"). Pin them. That's it.
+- Extensions = (None).
 - Bookmark bar = always hidden none.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
