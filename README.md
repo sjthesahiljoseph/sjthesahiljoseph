@@ -68,6 +68,7 @@
 - Win + Search = Search Application to launch or Start Menu.
 
 ## Visual Studio Community 2026:
+- Always Full Screen Size Launch.
 - Download and Install Visual Studio Community 2026 with (C/C++/C#/TypeScript/JavaScript/Python (Everything)).
 - Download and Install Python, NodeJs manually.
 - Sign In using Microsoft / GitHub Account.
@@ -103,7 +104,7 @@
 ## Terminal:
 - Windows Terminal.
 - Make this default.
-- Always half Screen Size.
+- Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
 - Set this theme as default.
 - Font: Cascadia Mono 13 pt / 17 px.
@@ -117,6 +118,7 @@
 
 ## File Explorer:
 - Default Windows File Explorer.
+- Always half Screen Size Launch.
 - Show hidden items and folders with full extension.
 - Show full path in title bar.
 - Launch in "This Pc".
@@ -125,6 +127,7 @@
 
 ## Microsoft Edge:
 - Setup Microsoft Edge.
+- Always Full Screen Size Launch.
 - Make this default for everything.
 - System Light Theme default.
 - Bing Search Engine.
@@ -146,12 +149,15 @@
 ## Microsoft Office 360:
 - Download and Install Microsoft Office 360.
 - Use Microsoft Office 360 apps like Excel, Word, PowerPoint, etc...
+- Always Full Screen Size Launch.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
+- Always Full Screen Size Launch.
 - Use VLC Media Player for almost every media thing.
 
 ## Adobe:
+- Always Full Screen Size Launch.
 - Download and Install Photoshop Latest. Use Darkest Theme. Hide Context Bar.
 - Download and Install After Effects Latest. Use Darkest Theme.
 - Download and Install Premiere Pro Latest. Use Darkest Theme.
@@ -160,40 +166,49 @@
 
 ## Blender:
 - Download and Install Blender Latest.
+- Always Full Screen Size Launch.
 - Use Darkest Theme.
 
 ## Unity Engine:
 - Download and Install Unity Engine.
+- Always Full Screen Size Launch.
 - Use Darkest Theme.
 
 ## Unreal Engine:
 - Download and Install Unreal Engine.
+- Always Full Screen Size Launch.
 - Use Darkest Theme.
 
 ## OBS:
 - Camera (mask = sjobs.png) 1920 x 1080 bottom/top left/right/top/bottom. (Width = 430px, Height = Ratio Calculation) - Taskbar (under).
 - Use Darkest Theme.
+- Always Full Screen Size Launch.
 
 ## Explainer Whiteboard App:
 - Use Adobe Photoshop for Explainer Whiteboard.
 - Canvas of 1920 x 1080 px x multiple artboards.
 - Love is an Illusion Color Pallete.
+- Always Full Screen Size Launch.
 
 ## Reaper:
 - Download and Install Reaper.
+- Always Full Screen Size Launch.
 
 ## WinRar:
 - Download and Install WinRar.
+- Always Half Screen Size Launch.
 - Install with all checkboxes.
 
 ## WhatsApp
 - Download and Install from Microsoft Store.
 - Disable Notifications, only show taskbar number tag when app is open.
 - Disable what's app in background.
+- Always Half Screen Size Launch.
 
 ## Mail Client:
 - Microsoft OutLook:
 	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
+	- Always Full Screen Size Launch.
 
 ## Browser Apps:
 - Instagram, GitHub, Reddit = From Mobile & Browser.
