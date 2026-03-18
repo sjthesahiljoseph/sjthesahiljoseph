@@ -82,6 +82,7 @@
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
 - File Tabs in one line by recent sequence.
+- File tab size 200.
 - Automatically close "([{<...etc.
 - All formatting = Braces and stuff on next line.
 - PascalCase, camelCase, prefix_PascalCase for almost everything. For everything.
