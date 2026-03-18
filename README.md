@@ -95,7 +95,7 @@
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Other Windows below, and auto hide.
-- Keep PowerShell Terminal Open as well below, and auto hide.
+- Keep PowerShell Terminal Open as well below, not auto hide, 5 line size.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
 - Show code IntelliSense suggestions as type.
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
