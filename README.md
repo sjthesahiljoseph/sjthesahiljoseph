@@ -41,14 +41,20 @@
 - Lock Screen free from widgets and everything.
 - Taskbar should have almost every everyday use application pin.
 - Taskbar should contain pinned apps icons, search bar, task view button, widgets icon, and always combine icons, and center alignment.
+- Taskbar show notification bell icon. And no notifications or reminders on lock screen.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Desktop should be empty, no icons at all.
 - Taskbar Size Standard, Not small.
-- Start Menu default doesn't matter.
+- Taskbar should have all icons possible in settings.
+- Start Menu default doesn't matter. Just disable random suggestions.
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
 - Install & Setup Microsoft OneDrive.
+- Notepad: Disable AI, Fonts: Cascadia Mono 13 pt / 17 px.
+- Advanced options: Disable max path limitation size.
+- Enable Developer Mode.
+- PowerShell change execution policy.
 - Rest Defaults.
 
 ## Style:
@@ -63,7 +69,7 @@
 
 ## Visual Studio Community 2026:
 - Download and Install Visual Studio Community 2026 with (C/C++/C#/TypeScript/JavaScript/Python (Everything)).
-- Download and Install Python, NodeJs.
+- Download and Install Python, NodeJs manually.
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -78,7 +84,7 @@
 - File Tabs in one line by recent sequence.
 - Automatically close "([{<...etc.
 - All formatting = Braces and stuff on next line.
-- PascalCase, camelCase for almost everything. For everything.
+- PascalCase, camelCase, prefix_PascalCase for almost everything. For everything.
 - Indent = Use tabs and 4 size.
 - Always "Show all files" no filters.
 - Disable Auto Backup File stuff.
@@ -88,29 +94,31 @@
 - Smooth Scrolling Off.
 - Keymap to Jump paragraphs up and down using Ctrl + Up / Down.
 - Other Windows below, and auto hide.
-- Keep Powershell Terminal Open as well below, and auto hide.
+- Keep PowerShell Terminal Open as well below, and auto hide.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
-- Only show code intellisense suggestions when press Ctrl + Space, otherwise, no LSP suggestions.
-- Only accept code intellisense suggestions when press "Tab". "Enter" for new line always.
+- Show code IntelliSense suggestions as type.
+- Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
 - Settings = VsSettings.vssettings & VsSettings.json.
 
 ## Terminal:
 - Windows Terminal.
+- Make this default.
 - Always half Screen Size.
-- Color for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
+- Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
 - Font: Cascadia Mono 13 pt / 17 px.
 - Cursor: Fat Line Bar Cursor (|). "#40ff40".
 - Use as many tabs.
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
-- Use Git stuff from Terminal.
+- Use Git stuff from Terminal / IDE.
 
 ## File Explorer:
 - Default Windows File Explorer.
 - Show hidden items and folders with full extension.
+- Show full path in title bar.
 - Launch in "This Pc".
-- Don't pin anything except defauts and "sjthe" folder and "Projects" folder.
+- Don't pin anything except defaults and "sjthe" folder and "Projects" folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
 ## Microsoft Edge:
@@ -120,8 +128,8 @@
 - Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = ("Vimium", "UBlockOrigin", "IDM"). Pin them. That's it.
-- Bookmark bar important stuff.
+- Extensions = ("Vimium", "UBlockOrigin"). Pin them. That's it.
+- Bookmark bar = always hidden none.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
@@ -140,9 +148,6 @@
 ## VLC Media Player:
 - Download and Install VLC Media Player.
 - Use VLC Media Player for almost every media thing.
-
-## Internet Download Manager:
-- Download and Install IDM Internet Download Manager.
 
 ## Adobe:
 - Download and Install Photoshop Latest. Use Darkest Theme. Hide Context Bar.
@@ -164,7 +169,7 @@
 - Use Darkest Theme.
 
 ## OBS:
-- Camera 1920 x 1080 bottom/top left/right/top/bottom. (Width = 430px, Height = Ratio Calculation) - Taskbar (under).
+- Camera (mask = sjobs.png) 1920 x 1080 bottom/top left/right/top/bottom. (Width = 430px, Height = Ratio Calculation) - Taskbar (under).
 - Use Darkest Theme.
 
 ## Explainer Whiteboard App:
@@ -175,8 +180,9 @@
 ## Reaper:
 - Download and Install Reaper.
 
-## 7zip:
-- Download and Install 7zip.
+## WinRar:
+- Download and Install WinRar.
+- Install with all checkboxes.
 
 ## WhatsApp
 - Download and Install from Microsoft Store.
@@ -188,7 +194,7 @@
 	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
 
 ## Browser Apps:
-- Instagram, LinkedIn, GitHub, Reddit = From Mobile & Browser.
+- Instagram, GitHub, Reddit = From Mobile & Browser.
 - YouTube Studio & YouTube = From Mobile & Browser.
 - Payment Apps = From Mobile & Browser.
 
@@ -205,7 +211,7 @@
 - Empty Home Screen, only one home screen and a clock widget only.
 - Microsoft Authenticator = Authenticator Application.
 - Ring Attached to natural Middle Finger Hold Position.
-- Keep Wired Handfree in the pocket.
+- Keep Wired Handsfree in the pocket.
 
 </details>
 
