@@ -24,27 +24,27 @@
 
 ## Operating System
 - Windows 11 Pro x64.
-- Dark mode everywhere.
-- Blue Dark Theme.
+- Update Windows & Apps.
+- Light mode everywhere.
+- Blue Light Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
-- Update Windows & Apps.
-- Disable AI 100% from everywhere.
-- Disable Auto Sleep, Screen Off.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
+- Disable Auto Sleep, Screen Off.
 - Turn Off Timeline Suggestions.
-- Desktop & Lock Screen Wallpaper = Default Dark Blue Desktop & Blue Wallpaper Lock.
-- Turn Off Notifications on Lock screen and other stuff.
+- Desktop & Lock Screen Wallpaper = Any Desktop & Lock Wallpaper.
+- Disable AI 100% from everywhere.
+- Desktop should be empty, no icons at all.
 - Lock Screen free from widgets and everything.
+- Turn Off Notifications on Lock screen and other stuff.
 - Taskbar should have almost every everyday use application pin.
 - Taskbar pin order: (Terminal, Edge, File Explorer, Visual Studio IDE, Adobe Photoshop).
 - Taskbar should contain pinned apps icons, search bar, task view button, widgets icon, and always combine icons, and center alignment.
 - Taskbar show notification bell icon. And no notifications or reminders on lock screen.
-- Other system tray icons = Enable all. No Dropdown stuff.
-- Desktop should be empty, no icons at all.
 - Taskbar Size Standard, Not small.
 - Taskbar should have all icons possible in settings.
+- Other system tray icons = Enable all. No Dropdown stuff.
 - Start Menu default doesn't matter. Just disable random suggestions.
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
@@ -59,7 +59,7 @@
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Cascadia Mono 13 pt / 17 px.
-- Cursor: Wherever possible, Line Bar Cursor (|). "#40ff40".
+- Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -77,7 +77,7 @@
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
+- Theme = Default Modern Light.
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -96,7 +96,7 @@
 - Other Windows below, and no auto hide, height = 5 lines.
 - Keep PowerShell Terminal Open as well below, not auto hide, 5 line size.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
-- Show code IntelliSense suggestions as type.
+- Show code IntelliSense suggestions as type instantly.
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
 - Settings = VsSettings.vssettings & VsSettings.json.
 
@@ -129,7 +129,7 @@
 - Setup Microsoft Edge.
 - Always Full Screen Size Launch.
 - Make this default for everything.
-- System Dark Theme default.
+- System Light Theme default.
 - Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
@@ -202,7 +202,7 @@
 ## WhatsApp
 - Download and Install from Microsoft Store.
 - Disable Notifications, only show taskbar number tag when app is open.
-- Dark theme.
+- Light theme.
 - Disable what's app in background.
 - Always Half Screen Size Launch.
 
@@ -221,8 +221,8 @@
 - That's it.
 
 ## SJ Mobile:
-- Always Dark Mode.
-- Desktop & Lock Screen Wallpaper = Default Desktop & Lock Wallpaper.
+- Always Light Mode.
+- Desktop & Lock Screen Wallpaper = Any Desktop & Lock Wallpaper.
 - Ringtone = ringtone.mp3.
 - Notification = notification.mp3.
 - Lock = Password + Finger Print Lock.
