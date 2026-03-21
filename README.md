@@ -80,7 +80,7 @@
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in one line by recent sequence.
+- File Tabs in multiple tab line by recent sequence.
 - File tab size 200.
 - Automatically close "([{<...etc.
 - All formatting = Braces and stuff on next line.
@@ -162,6 +162,7 @@
 - Download and Install Premiere Pro Latest. Use Darkest Theme.
 - Download and Install Lightroom Latest. Use Darkest Theme.
 - Download and Install Audition Latest. Use Darkest Theme.
+- Download and Install Acrobat Latest. Use Darkest Theme.
 
 ## Blender:
 - Download and Install Blender Latest.
@@ -210,13 +211,8 @@
 	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
 	- Always Full Screen Size Launch.
 
-## Browser Apps:
-- Instagram, GitHub, Reddit = From Mobile & Browser.
-- YouTube Studio & YouTube = From Mobile & Browser.
-- Payment Apps = From Mobile & Browser.
-
 ## Music:
-- Local MP3 in Microsoft OneDrive.
+- YouTube, YouTube Music.
 - That's it.
 
 ## SJ Mobile:
@@ -229,6 +225,7 @@
 - Microsoft Authenticator = Authenticator Application.
 - Ring Attached to natural Middle Finger Hold Position.
 - Keep Wired Handsfree in the pocket.
+- Computer and Mobile should be syncronized with each other as much as possible.
 
 </details>
 
