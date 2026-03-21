@@ -74,6 +74,7 @@
 - Disable All AI related Features.
 - Extensions = (None).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Default Modern Dark.
@@ -97,6 +98,8 @@
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
 - Show code IntelliSense suggestions as type instantly.
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
+- View: Left Side (not auto hide) = Solution Explorer, Git Changes, Notifications.
+- View: Bottom (not auto hide) = 2 Split (Error List, Task List, Bookmarks)(Output).
 - Settings = VsSettings.vssettings & VsSettings.json.
 
 ## Terminal:
