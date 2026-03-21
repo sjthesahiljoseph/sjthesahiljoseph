@@ -25,21 +25,20 @@
 ## Operating System
 - Windows 11 Pro x64.
 - Update Windows & Apps.
-- Light mode everywhere.
-- Blue Light Theme.
+- Dark mode everywhere.
+- Blue Dark Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
 - Disable Auto Sleep, Screen Off.
 - Turn Off Timeline Suggestions.
-- Desktop & Lock Screen Wallpaper = Any Desktop & Lock Wallpaper.
+- Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Disable AI 100% from everywhere.
-- Desktop should be empty, no icons at all.
+- Desktop should have almost every icon possible.
 - Lock Screen free from widgets and everything.
 - Turn Off Notifications on Lock screen and other stuff.
 - Taskbar should have almost every everyday use application pin.
-- Taskbar pin order: (Terminal, Edge, File Explorer, Visual Studio IDE, Adobe Photoshop).
 - Taskbar should contain pinned apps icons, search bar, task view button, widgets icon, and always combine icons, and center alignment.
 - Taskbar show notification bell icon. And no notifications or reminders on lock screen.
 - Taskbar Size Standard, Not small.
@@ -77,7 +76,7 @@
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Light.
+- Theme = Default Modern Dark.
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab Off & Don't do anything with scroll wheel.
@@ -129,7 +128,7 @@
 - Setup Microsoft Edge.
 - Always Full Screen Size Launch.
 - Make this default for everything.
-- System Light Theme default.
+- System Dark Theme default.
 - Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
@@ -202,7 +201,7 @@
 ## WhatsApp
 - Download and Install from Microsoft Store.
 - Disable Notifications, only show taskbar number tag when app is open.
-- Light theme.
+- Dark theme.
 - Disable what's app in background.
 - Always Half Screen Size Launch.
 
@@ -221,8 +220,8 @@
 - That's it.
 
 ## SJ Mobile:
-- Always Light Mode.
-- Desktop & Lock Screen Wallpaper = Any Desktop & Lock Wallpaper.
+- Always Dark Mode.
+- Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Ringtone = ringtone.mp3.
 - Notification = notification.mp3.
 - Lock = Password + Finger Print Lock.
