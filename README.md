@@ -35,7 +35,7 @@
 - Turn Off Timeline Suggestions.
 - Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Disable AI 100% from everywhere.
-- Desktop should have almost every icon possible.
+- Desktop should have almost every icon possible. (small icons).
 - Lock Screen free from widgets and everything.
 - Turn Off Notifications on Lock screen and other stuff.
 - Taskbar should have almost every everyday use application pin.
