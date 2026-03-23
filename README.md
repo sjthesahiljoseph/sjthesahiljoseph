@@ -96,7 +96,7 @@
 - Other Windows below, and no auto hide, height = 5 lines.
 - Keep PowerShell Terminal Open as well below, not auto hide, 5 line size.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
-- Show code IntelliSense suggestions only when press Ctrl+Space, and only accept suggestion LSP manually using TAB.
+- Show code IntelliSense suggestions only when press Alt + ,, & Alt + ., and only accept suggestion LSP manually using TAB.
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
 - View: Left Side (not auto hide) = Solution Explorer, Git Changes, Notifications.
 - View: Bottom (not auto hide) = 2 Split (Error List, Task List, Bookmarks)(Output).
