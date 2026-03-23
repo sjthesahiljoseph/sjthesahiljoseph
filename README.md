@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-	Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio IDE)
+	Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -48,8 +48,8 @@
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- Install & Setup Microsoft OneDrive.
-- Notepad: Disable AI, Fonts: Cascadia Mono 13 pt / 17 px.
+- UnInstall Microsoft OneDrive.
+- Notepad: Disable AI, Fonts: Liberation Mono 13 pt / 17 px.
 - Advanced options: Disable max path limitation size.
 - Enable Developer Mode.
 - PowerShell change execution policy.
@@ -57,7 +57,7 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Consolas 13 pt / 17 px.
+- Always Fonts: Liberation Mono 13 pt / 17 px.
 - Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -73,7 +73,7 @@
 - Sync.
 - Disable All AI related Features.
 - Extensions = (None).
-- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -102,14 +102,18 @@
 - View: Bottom (not auto hide) = 2 Split (Error List, Task List, Bookmarks)(Output).
 - Track Active Item in Solution Explorer.
 - Settings = VsSettings.vssettings & VsSettings.json.
+- Use Emacs for text or code writing, but use Visual Studio IDE as a debugger when needed.
+
+## Emacs:
+- Download & Install Emacs.
+- Use Emacs for almost every text or code writing.
 
 ## Terminal:
 - Windows Terminal.
 - Make this default.
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Set this theme as default.
-- Font: Consolas 13 pt / 17 px.
+- Font: Liberation Mono 13 pt / 17 px.
 - Line Height = 1.0.
 - Cursor: Fat Line Bar Cursor (|). "#40ff40".
 - Scrollbar Always Visible.
@@ -128,16 +132,16 @@
 - Don't pin anything except defaults and "sjthe" folder and "Projects" folder.
 - Don't show recently used or frequently used stuff in sidebar.
 
-## Microsoft Edge:
-- Setup Microsoft Edge.
+## Browser:
+- Install & Setup Google Chrome.
 - Always Full Screen Size Launch.
 - Make this default for everything.
 - System Dark Theme default.
-- Bing Search Engine.
+- Google Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = (None).
-- Bookmark bar = always hidden none.
+- Extensions = (UBlock Origin (or lite), Vimium, CollorZilla, UltraSurf).
+- Bookmark bar = Always show.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
@@ -145,14 +149,14 @@
 - Rest Defaults.
 
 ## Backup:
-- Use Microsoft OneDrive as primary cloud storage.
+- Use Google Drive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Google Photos for Photos & Videos, but keep in organized way.
 
-## Microsoft Office 360:
-- Download and Install Microsoft Office 360.
-- Use Microsoft Office 360 apps like Excel, Word, PowerPoint, etc...
-- Always Full Screen Size Launch.
+## Google Workspace:
+- Use Google Workspace apps like Sheets, Docs, Slides, etc...
+- Use from Browser.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
@@ -211,9 +215,9 @@
 - Always Half Screen Size Launch.
 
 ## Mail Client:
-- Microsoft OutLook:
-	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
-	- Always Full Screen Size Launch.
+- Gmail:
+	- Use Gmail with sjthesahiljoseph@gmail.com.
+	- From Browser.
 
 ## Music:
 - YouTube, YouTube Music.
@@ -226,7 +230,7 @@
 - Notification = notification.mp3.
 - Lock = Password + Finger Print Lock.
 - Empty Home Screen, only one home screen and a clock widget only.
-- Microsoft Authenticator = Authenticator Application.
+- Google Authenticator = Authenticator Application.
 - Ring Attached to natural Middle Finger Hold Position.
 - Keep Wired Handsfree in the pocket.
 - Computer and Mobile should be syncronized with each other as much as possible.
