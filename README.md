@@ -145,7 +145,7 @@
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
-- Don't show search recommendations or suggestions.
+- Show search recommendations or suggestions.
 - Rest Defaults.
 
 ## Backup:
