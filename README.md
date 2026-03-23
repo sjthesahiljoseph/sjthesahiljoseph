@@ -100,6 +100,7 @@
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
 - View: Left Side (not auto hide) = Solution Explorer, Git Changes, Notifications.
 - View: Bottom (not auto hide) = 2 Split (Error List, Task List, Bookmarks)(Output).
+- Track Active Item in Solution Explorer.
 - Settings = VsSettings.vssettings & VsSettings.json.
 
 ## Terminal:

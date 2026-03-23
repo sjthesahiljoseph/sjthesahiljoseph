@@ -7,7 +7,7 @@
 	"environment.visualExperience.hideCopilotBadge": true,
 	"environment.autoRecover.backUpUnsavedChanges": false,
 	"environment.documents.showMiscFileProject": true,
-	"environment.tabs.documentTabs.multiRowScrollToggle": false,
+	"environment.tabs.documentTabs.multiRowScrollToggle": true,
 	"environment.tabs.documentTabs.minimumTabWidth": 200,
 	"environment.tabs.documentTabs.maximumTabWidth": 200,
 	"sourceControl.gitSettings.defaultRepositoryPath": "C:\\Users\\sjthe\\Projects",
@@ -110,7 +110,7 @@
 	"environment.tabs.documentTabs.showHideButtonInWell": true,
 	"environment.tabs.documentTabs.dirtyIndicator": "dot",
 	"environment.tabs.documentTabs.colorization": "none",
-	"projectsAndSolutions.general.trackActiveItem": false,
+	"projectsAndSolutions.general.trackActiveItem": true,
 	"projectsAndSolutions.locations.newProjectOrSolution": "C:\\Users\\sjthe\\Projects",
 	"textEditor.general.automaticDelimiterHighlighting": true,
 	"textEditor.general.display.zeroWidthCharacters": true,
@@ -188,5 +188,7 @@
 	"languages.cpp.intelliSense.references.filterUnconfirmedResults": false,
 	"languages.cpp.intelliSense.references.filterInactivePreprocessorResults": false,
 	"languages.cpp.intelliSense.references.filterDiscardedResults": false,
-	"languages.cpp.intelliSense.references.filterInStringResults": false
+	"languages.cpp.intelliSense.references.filterInStringResults": false,
+	"textEditor.codeCompletions.general.codeCompletionsInvocation": "manual",
+	"textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": true
 }
