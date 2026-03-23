@@ -57,7 +57,7 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Cascadia Mono 13 pt / 17 px.
+- Always Fonts: Consolas 13 pt / 17 px.
 - Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -73,16 +73,16 @@
 - Sync.
 - Disable All AI related Features.
 - Extensions = (None).
-- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
 - Theme = Default Modern Dark.
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
-- Multiple Row Tab Off & Don't do anything with scroll wheel.
-- File Tabs in multiple tab line by recent sequence.
-- File tab size 200.
+- Multiple Row Tab On & Don't do anything with scroll wheel on tabs.
+- File Tabs in multiple tab row by recent sequence.
+- File standard tab size 200.
 - Automatically close "([{<...etc.
 - All formatting = Braces and stuff on next line.
 - PascalCase, camelCase, prefix_PascalCase for almost everything. For everything.
@@ -96,7 +96,7 @@
 - Other Windows below, and no auto hide, height = 5 lines.
 - Keep PowerShell Terminal Open as well below, not auto hide, 5 line size.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
-- Show code IntelliSense suggestions as type instantly.
+- Show code IntelliSense suggestions only when press Ctrl+Space, and only accept suggestion LSP manually using TAB.
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
 - View: Left Side (not auto hide) = Solution Explorer, Git Changes, Notifications.
 - View: Bottom (not auto hide) = 2 Split (Error List, Task List, Bookmarks)(Output).
@@ -108,8 +108,8 @@
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
 - Set this theme as default.
-- Font: Cascadia Mono 13 pt / 17 px.
-- Line Height = 1.2.
+- Font: Consolas 13 pt / 17 px.
+- Line Height = 1.0.
 - Cursor: Fat Line Bar Cursor (|). "#40ff40".
 - Scrollbar Always Visible.
 - Use as many tabs.
