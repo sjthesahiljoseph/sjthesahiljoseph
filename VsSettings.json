@@ -7,7 +7,7 @@
 	"environment.visualExperience.hideCopilotBadge": true,
 	"environment.autoRecover.backUpUnsavedChanges": false,
 	"environment.documents.showMiscFileProject": true,
-	"environment.tabs.documentTabs.multiRowScrollToggle": true,
+	"environment.tabs.documentTabs.multiRowScrollToggle": false,
 	"environment.tabs.documentTabs.minimumTabWidth": 200,
 	"environment.tabs.documentTabs.maximumTabWidth": 200,
 	"sourceControl.gitSettings.defaultRepositoryPath": "C:\\Users\\sjthe\\Projects",
@@ -104,7 +104,6 @@
 	"environment.search.findAndReplace.showNoResultsFound": false,
 	"environment.search.findAndReplace.showNoMoreResults": false,
 	"environment.search.findAndReplace.showAllResultsReplacedMessage": true,
-	"environment.search.findAndReplace.populateFindTextFromEditor": false,
 	"environment.tabs.documentTabs.insertRight": true,
 	"environment.tabs.documentTabs.multiRowTabs": true,
 	"environment.tabs.documentTabs.showPinnedTabsInSeparateRow": true,
@@ -121,7 +120,6 @@
 	"languages.defaults.general.virtualSpace": false,
 	"languages.webforms.formatting.wrapTagLength": 80,
 	"languages.webforms.formatting.wrapTag": true,
-	"languages.cpp.intelliSense.inlayHints.renderHints": false,
 	"languages.cpp.codeStyle.formatting.general.autoIndentOnTab": true,
 	"languages.cpp.codeStyle.formatting.indentation.alignParameters": true,
 	"languages.cpp.codeStyle.formatting.indentation.preserveParameterIndentation": true,
@@ -185,5 +183,10 @@
 	"toolsForUnity.explorer.syncUnityProjectExplorer": true,
 	"toolsForUnity.explorer.trackActiveItemInUnityProjectExplorer": true,
 	"toolsForUnity.miscellaneous.enableProjectPropertyPages": true,
-	"windowsFormsDesigner.general.codegen.capitalizeEventHandlerMethodNames": true
+	"windowsFormsDesigner.general.codegen.capitalizeEventHandlerMethodNames": true,
+	"languages.cpp.intelliSense.references.filterInCommentResults": false,
+	"languages.cpp.intelliSense.references.filterUnconfirmedResults": false,
+	"languages.cpp.intelliSense.references.filterInactivePreprocessorResults": false,
+	"languages.cpp.intelliSense.references.filterDiscardedResults": false,
+	"languages.cpp.intelliSense.references.filterInStringResults": false
 }
