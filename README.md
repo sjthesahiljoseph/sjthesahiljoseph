@@ -67,8 +67,7 @@
 
 ## Visual Studio Community 2026:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C#/TypeScript/JavaScript/Python (Everything)).
-- Download and Install Python, NodeJs manually.
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Desktop Developmetn with C/C++, Unity Development)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -103,6 +102,10 @@
 - Track Active Item in Solution Explorer.
 - Settings = VsSettings.vssettings & VsSettings.json.
 - Use Emacs for text or code writing, but use Visual Studio IDE as a debugger when needed.
+
+## Python & NodeJs:
+- Download and Install Python, NodeJs.
+- Use Terminal & Emacs for Python & NodeJs development.
 
 ## Emacs:
 - Download & Install Emacs.
