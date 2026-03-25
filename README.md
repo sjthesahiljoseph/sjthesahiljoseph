@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-	SJ the Sahil Joseph
+    SJ the Sahil Joseph
 </h1>
 
 <h3 align="center">
-	Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
+    Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -19,14 +19,14 @@
 <details>
 
 <summary>
-	SJ the Sahil Joseph's Configurations
+    SJ the Sahil Joseph's Configurations
 </summary>
 
 ## Operating System
 - Windows 11 Pro x64.
 - Update Windows & Apps.
-- Dark mode everywhere.
-- Blue Dark Theme.
+- Light Mode.
+- Blue Light Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Always show scrollbar. Never hide. For all windows.
@@ -49,7 +49,7 @@
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
 - UnInstall Microsoft OneDrive.
-- Notepad: Disable AI, Fonts: Liberation Mono 13 pt / 17 px.
+- Notepad: Disable AI, Fonts: Consolas 13 pt / 17 px.
 - Advanced options: Disable max path limitation size.
 - Enable Developer Mode.
 - PowerShell change execution policy.
@@ -57,7 +57,7 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Liberation Mono 13 pt / 17 px.
+- Always Fonts: Consolas 13 pt / 17 px.
 - Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -67,45 +67,42 @@
 
 ## Visual Studio Community 2026:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Game Development with C/C++, Desktop Developmetn with C/C++, Unity Development)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C#/Python (Everything)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (None).
-- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
+- Extensions = (VS Block Jumper).
+- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
-- Indent = Use tabs and 4 size.
+- Theme = Default Modern Light.
+- Indent = Use spaces and 4 size.
 - Word Wrap Off.
-- Multiple Row Tab On & Don't do anything with scroll wheel on tabs.
+- Multiple Row Tab On & Do scroll with scroll wheel on tabs.
 - File Tabs in multiple tab row by recent sequence.
 - File standard tab size 200.
 - Automatically close "([{<...etc.
 - All formatting = Braces and stuff on next line.
-- PascalCase, camelCase, prefix_PascalCase for almost everything. For everything.
-- Indent = Use tabs and 4 size.
+- PascalCase, camelCase, prefix_PascalCase, snake_case, for almost everything. For everything.
 - Always "Show all files" no filters.
 - Disable Auto Backup File stuff.
 - Enable bracket pair colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
-- Other Windows below, and no auto hide, height = 5 lines.
-- Keep PowerShell Terminal Open as well below, not auto hide, 5 line size.
 - Toolbar (Standard, Text Editor, Debug)(All of them Checks (Only Standard until Find)).
 - Show code IntelliSense suggestions only when press Alt + ,, & Alt + ., and only accept suggestion LSP manually using TAB.
 - Only accept code IntelliSense suggestions when press "Tab". "Enter" for new line always.
 - View: Left Side (not auto hide) = Solution Explorer, Git Changes, Notifications.
-- View: Bottom (not auto hide) = 2 Split (Error List, Task List, Bookmarks)(Output).
+- View: Bottom (auto hide, height = 5 lines) = (OutPut, PowerShell, Error List, Task List, Bookmarks).
+- Other Windows below, and auto hide, height = 5 lines.
 - Track Active Item in Solution Explorer.
 - Settings = VsSettings.vssettings & VsSettings.json.
-- Use Emacs for text or code writing, but use Visual Studio IDE as a debugger when needed.
 
 ## Python & NodeJs:
 - Download and Install Python, NodeJs.
-- Use Terminal & Emacs for Python & NodeJs development.
+- Use Visual Studio Code & Visual Studio IDE for Python & NodeJs development.
 
 ## Emacs:
 - Download & Install Emacs.
@@ -116,7 +113,7 @@
 - Make this default.
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Font: Liberation Mono 13 pt / 17 px.
+- Font: Consolas 13 pt / 17 px.
 - Line Height = 1.0.
 - Cursor: Fat Line Bar Cursor (|). "#40ff40".
 - Scrollbar Always Visible.
@@ -124,7 +121,7 @@
 
 ## Git for Windows:
 - Setup with GitHub using SSH.
-- Use Git stuff from Terminal / IDE.
+- Use Git stuff from Terminal / Text Editor / IDE.
 
 ## File Explorer:
 - Default Windows File Explorer.
@@ -139,7 +136,7 @@
 - Install & Setup Google Chrome.
 - Always Full Screen Size Launch.
 - Make this default for everything.
-- System Dark Theme default.
+- System Light Theme default.
 - Google Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
@@ -213,7 +210,7 @@
 ## WhatsApp
 - Download and Install from Microsoft Store.
 - Disable Notifications, only show taskbar number tag when app is open.
-- Dark theme.
+- Light theme.
 - Disable what's app in background.
 - Always Half Screen Size Launch.
 
@@ -227,10 +224,10 @@
 - That's it.
 
 ## SJ Mobile:
-- Always Dark Mode.
+- Always Light Mode.
 - Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Ringtone = ringtone.mp3.
-- Notification = notification.mp3.
+- Notification = Vibration Mode Only.
 - Lock = Password + Finger Print Lock.
 - Empty Home Screen, only one home screen and a clock widget only.
 - Google Authenticator = Authenticator Application.
