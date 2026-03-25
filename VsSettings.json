@@ -103,7 +103,7 @@
 	"textEditor.advanced.diffHighlightMode": "wholeLine",
 	"environment.search.findAndReplace.showNoResultsFound": false,
 	"environment.search.findAndReplace.showNoMoreResults": false,
-	"environment.search.findAndReplace.showAllResultsReplacedMessage": true,
+	"environment.search.findAndReplace.showAllResultsReplacedMessage": false,
 	"environment.tabs.documentTabs.insertRight": true,
 	"environment.tabs.documentTabs.multiRowTabs": true,
 	"environment.tabs.documentTabs.showPinnedTabsInSeparateRow": true,
@@ -190,5 +190,6 @@
 	"languages.cpp.intelliSense.references.filterDiscardedResults": false,
 	"languages.cpp.intelliSense.references.filterInStringResults": false,
 	"textEditor.codeCompletions.general.codeCompletionsInvocation": "manual",
-	"textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": true
+	"textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": true,
+	"environment.visualExperience.colorTheme": "light"
 }
