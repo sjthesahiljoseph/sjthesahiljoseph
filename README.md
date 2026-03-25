@@ -65,13 +65,14 @@
 - Learn the workspace. Learn & Create the keymaps. And use as much keymaps as possible. Master them.
 - Win + Search = Search Application to launch or Start Menu.
 
-## Visual Studio Community 2026:
+## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
 - Download and Install Visual Studio Community 2026 with (C/C++/C#/Python (Everything)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- Extensions = (VS Block Jumper).
+- VS: Extensions = (VS Block Jumper).
+- VSC: Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
 - Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
@@ -98,15 +99,14 @@
 - View: Bottom (auto hide, height = 5 lines) = (OutPut, PowerShell, Error List, Task List, Bookmarks).
 - Other Windows below, and auto hide, height = 5 lines.
 - Track Active Item in Solution Explorer.
+- Ctrl + D = Duplicate Region.
+- Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
 
 ## Python & NodeJs:
 - Download and Install Python, NodeJs.
-- Use Visual Studio Code & Visual Studio IDE for Python & NodeJs development.
-
-## Emacs:
-- Download & Install Emacs.
-- Use Emacs for almost every text or code writing.
+- Use Visual Studio Code NodeJs development.
+- Use Visual Studio Code & Visual Studio IDE for Python development.
 
 ## Terminal:
 - Windows Terminal.
