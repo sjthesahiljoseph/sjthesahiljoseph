@@ -12,8 +12,6 @@
 
 (global-subword-mode t)
 
-(cua-mode t)
-
 (global-set-key (kbd "<escape>") 'keyboard-quit)
 
 (add-to-list 'default-frame-alist '(fullscreen . maximized))
@@ -156,16 +154,6 @@
 	:ensure t
 	:defer t
 	)
-
-(use-package colorful-mode
-	:ensure t
-	:custom
-	(colorful-use-prefix t)
-	(colorful-only-strings 'only-prog)
-	(css-fontify-colors nil)
-	:config
-	(global-colorful-mode t)
-	(add-to-list 'global-colorful-modes 'helpful-mode))
 
 (setq create-lockfiles nil)
 
