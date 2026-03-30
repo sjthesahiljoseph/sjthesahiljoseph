@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -25,8 +25,8 @@
 ## Operating System
 - Windows 11 Pro x64.
 - Update Windows & Apps.
-- Light Mode.
-- Blue Light Theme.
+- Dark Mode.
+- Blue Dark Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
 - Always show scrollbar. Never hide. For all windows.
@@ -39,7 +39,7 @@
 - Lock Screen free from widgets and everything.
 - Turn Off Notifications on Lock screen and other stuff.
 - Taskbar should have almost every everyday use application pin.
-- Taskbar should contain pinned apps icons, search bar, task view button, widgets icon, and always combine icons, and center alignment.
+- Taskbar should contain pinned apps icons, no search bar, no task view button, no widgets icon, and always combine icons, and left alignment.
 - Taskbar show notification bell icon. And no notifications or reminders on lock screen.
 - Taskbar Size Standard, Not small.
 - Taskbar should have all icons possible in settings.
@@ -49,7 +49,7 @@
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
 - UnInstall Microsoft OneDrive.
-- Notepad: Disable AI, Fonts: Consolas 13 pt / 17 px.
+- Notepad: Disable AI, Fonts: Liberation Mono 13 pt / 17 px.
 - Advanced options: Disable max path limitation size.
 - Enable Developer Mode.
 - PowerShell change execution policy.
@@ -57,13 +57,20 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Consolas 13 pt / 17 px.
+- Always Fonts: Liberation Mono 13 pt / 17 px.
 - Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
 - Learn the workspace. Learn & Create the keymaps. And use as much keymaps as possible. Master them.
 - Win + Search = Search Application to launch or Start Menu.
+
+## Text Style:
+- All formatting = Braces and stuff on next line.
+- // if (true && false || 0.4f >= 55.3)
+- // {
+- // }
+- snake_case, Pascal_Snake_Case, prefix_Pascal_Snake_Case, for almost everything. For everything.
 
 ## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
@@ -73,19 +80,17 @@
 - Disable All AI related Features.
 - VS: Extensions = (VS Block Jumper).
 - VSC: Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
-- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Light.
-- Indent = Use spaces and 4 size.
+- Theme = Default Modern Dark.
+- Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab On & Do scroll with scroll wheel on tabs.
 - File Tabs in multiple tab row by recent sequence.
 - File standard tab size 200.
 - Automatically close "([{<...etc.
-- All formatting = Braces and stuff on next line.
-- PascalCase, camelCase, prefix_PascalCase, snake_case, for almost everything. For everything.
 - Always "Show all files" no filters.
 - Disable Auto Backup File stuff.
 - Enable bracket pair colorize.
@@ -105,15 +110,15 @@
 
 ## Python & NodeJs:
 - Download and Install Python, NodeJs.
-- Use Visual Studio Code NodeJs development.
-- Use Visual Studio Code & Visual Studio IDE for Python development.
+- Use Emacs / Visual Studio Code NodeJs development.
+- Use Emacs / Visual Studio Code / Visual Studio IDE for Python development.
 
 ## Terminal:
 - Windows Terminal.
 - Make this default.
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Font: Consolas 13 pt / 17 px.
+- Font: Liberation Mono 13 pt / 17 px.
 - Line Height = 1.0.
 - Cursor: Fat Line Bar Cursor (|). "#40ff40".
 - Scrollbar Always Visible.
@@ -136,7 +141,7 @@
 - Install & Setup Google Chrome.
 - Always Full Screen Size Launch.
 - Make this default for everything.
-- System Light Theme default.
+- System Dark Theme default.
 - Google Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
@@ -200,6 +205,7 @@
 
 ## Reaper:
 - Download and Install Reaper.
+- Use darkest Theme.
 - Always Full Screen Size Launch.
 
 ## WinRar:
@@ -210,7 +216,7 @@
 ## WhatsApp
 - Download and Install from Microsoft Store.
 - Disable Notifications, only show taskbar number tag when app is open.
-- Light theme.
+- Dark theme.
 - Disable what's app in background.
 - Always Half Screen Size Launch.
 
@@ -224,7 +230,7 @@
 - That's it.
 
 ## SJ Mobile:
-- Always Light Mode.
+- Always Dark Mode.
 - Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Ringtone = ringtone.mp3.
 - Notification = Vibration Mode Only.
