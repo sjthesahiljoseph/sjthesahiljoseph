@@ -58,7 +58,7 @@
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
 - Always Fonts: Liberation Mono 13 pt / 17 px.
-- Cursor: Wherever possible, Line Bar Cursor (|).
+- Cursor: Wherever possible, Fat Bar Cursor ([]) #40ff40.
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -71,6 +71,11 @@
 - // {
 - // }
 - snake_case, Pascal_Snake_Case, prefix_Pascal_Snake_Case, for almost everything. For everything.
+
+## Emacs:
+- Download and Install Emacs.
+- Make symlink with init.el.
+- Git Clone theme sjthesahiljoseph/loveisanillusion.emacs and place inside C:\Users\sjthe\Projects\.
 
 ## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
@@ -107,6 +112,7 @@
 - Ctrl + D = Duplicate Region.
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
+- Use Visual Studio IDE / Visual Studio Code as a debugger or explaining thing, but write text in Emacs.
 
 ## Python & NodeJs:
 - Download and Install Python, NodeJs.
@@ -120,7 +126,7 @@
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
 - Font: Liberation Mono 13 pt / 17 px.
 - Line Height = 1.0.
-- Cursor: Fat Line Bar Cursor (|). "#40ff40".
+- Cursor: Fat Bar Cursor ([]). "#40ff40".
 - Scrollbar Always Visible.
 - Use as many tabs.
 
@@ -237,7 +243,6 @@
 - Lock = Password + Finger Print Lock.
 - Empty Home Screen, only one home screen and a clock widget only.
 - Google Authenticator = Authenticator Application.
-- Ring Attached to natural Middle Finger Hold Position.
 - Keep Wired Handsfree in the pocket.
 - Computer and Mobile should be syncronized with each other as much as possible.
 

@@ -22,7 +22,7 @@
 
 (set-cursor-color "#40ff40")
 
-(blink-cursor-mode 1)
+(blink-cursor-mode 0)
 (setq blink-cursor-blinks 0)
 (setq blink-cursor-interval 0.5)
 (setq highlight-nonselected-windows t)
@@ -154,6 +154,9 @@
 	:ensure t
 	:defer t
 	)
+
+(with-eval-after-load 'python
+  (setcdr python-mode-map nil))
 
 (setq create-lockfiles nil)
 
