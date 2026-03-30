@@ -301,3 +301,16 @@
 (global-set-key (kbd "<C-S-iso-lefttab>") 'my/prev-file-buffer)
 (global-set-key (kbd "<C-S-tab>") 'my/prev-file-buffer)
 
+(defun my/smart-home ()
+  "Toggle between beginning of line and first non-whitespace character."
+  (interactive)
+  (let ((orig-point (point)))
+    (back-to-indentation)
+    (when (= orig-point (point))
+      (move-beginning-of-line 1))))
+
+(global-set-key [home] #'my/smart-home)
+
+
+
+
