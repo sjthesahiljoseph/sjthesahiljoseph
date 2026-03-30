@@ -79,7 +79,7 @@
 
 ## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C#/Python (Everything)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -109,7 +109,6 @@
 - View: Bottom (auto hide, height = 5 lines) = (OutPut, PowerShell, Error List, Task List, Bookmarks).
 - Other Windows below, and auto hide, height = 5 lines.
 - Track Active Item in Solution Explorer.
-- Ctrl + D = Duplicate Region.
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
 - Use Visual Studio IDE / Visual Studio Code as a debugger or explaining thing, but write text in Emacs.
@@ -117,7 +116,7 @@
 ## Python & NodeJs:
 - Download and Install Python, NodeJs.
 - Use Emacs / Visual Studio Code NodeJs development.
-- Use Emacs / Visual Studio Code / Visual Studio IDE for Python development.
+- Use Emacs / Visual Studio Code for Python development.
 
 ## Terminal:
 - Windows Terminal.
@@ -151,7 +150,7 @@
 - Google Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = (UBlock Origin (or lite), Vimium, CollorZilla, UltraSurf).
+- Extensions = (UBlock Origin (or lite), Vimium, ColorZilla, UltraSurf).
 - Bookmark bar = Always show.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
@@ -218,13 +217,6 @@
 - Download and Install WinRar.
 - Always Half Screen Size Launch.
 - Install with all checkboxes.
-
-## WhatsApp
-- Download and Install from Microsoft Store.
-- Disable Notifications, only show taskbar number tag when app is open.
-- Dark theme.
-- Disable what's app in background.
-- Always Half Screen Size Launch.
 
 ## Mail Client:
 - Gmail:
