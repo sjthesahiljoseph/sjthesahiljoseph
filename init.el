@@ -156,7 +156,7 @@
 	)
 
 (with-eval-after-load 'python
-  (setcdr python-mode-map nil))
+	(setcdr python-mode-map nil))
 
 (setq create-lockfiles nil)
 
@@ -249,6 +249,8 @@
 (advice-add 'kill-word :around #'suppress-kill-ring)
 (advice-add 'backward-kill-word :around #'suppress-kill-ring)
 
+(delete-selection-mode 1)
+
 (use-package move-text
 	:ensure t
 	)
@@ -305,12 +307,12 @@
 (global-set-key (kbd "<C-S-tab>") 'my/prev-file-buffer)
 
 (defun my/smart-home ()
-  "Toggle between beginning of line and first non-whitespace character."
-  (interactive)
-  (let ((orig-point (point)))
-    (back-to-indentation)
-    (when (= orig-point (point))
-      (move-beginning-of-line 1))))
+	"Toggle between beginning of line and first non-whitespace character."
+	(interactive)
+	(let ((orig-point (point)))
+		(back-to-indentation)
+		(when (= orig-point (point))
+			(move-beginning-of-line 1))))
 
 (global-set-key [home] #'my/smart-home)
 
