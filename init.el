@@ -22,6 +22,8 @@
 
 (set-cursor-color "#40ff40")
 
+(save-place-mode 1)
+
 (blink-cursor-mode 0)
 (setq blink-cursor-blinks 0)
 (setq blink-cursor-interval 0.5)
@@ -166,7 +168,7 @@
 (put 'upcase-region 'disabled nil)
 
 (setq electric-indent-mode t)
-(setq-default indent-tabs-mode t)
+(setq-default indent-tabs-mode nil)
 (setq-default tab-width 4)
 (setq-default tab-always-indent t)
 (setq backward-delete-char-untabify-method 'hungry)
