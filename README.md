@@ -95,10 +95,10 @@
 - Multiple Row Tab On & Do scroll with scroll wheel on tabs.
 - File Tabs in multiple tab row by recent sequence.
 - File standard tab size 200.
-- Automatically close "([{<...etc.
+- Don't automatically close "([{<...etc.
 - Always "Show all files" no filters.
 - Disable Auto Backup File stuff.
-- Enable bracket pair colorize.
+- Disable bracket pair colorize.
 - Default Projects folder = C:\Users\sjthe\Projects.
 - Disable Code Half Screen Preview stuff. (sticky scroll).
 - Smooth Scrolling Off.
@@ -113,10 +113,10 @@
 - Settings = VsSettings.vssettings & VsSettings.json.
 - Use Visual Studio IDE / Visual Studio Code as a debugger or explaining thing, but write text in Emacs.
 
-## Python & NodeJs:
-- Download and Install Python, NodeJs.
-- Use Emacs / Visual Studio Code NodeJs development.
-- Use Emacs / Visual Studio Code for Python development.
+## Python:
+- Download and Install Python.
+- Use Emacs & Terminal for Python development.
+- Use Visual Studio IDE / Visual Studio Code as a debugger or explaining thing, but write text in Emacs.
 
 ## Terminal:
 - Windows Terminal.
@@ -150,7 +150,7 @@
 - Google Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = (UBlock Origin (or lite), Vimium, ColorZilla, UltraSurf).
+- Extensions = (UBlock Origin (or lite), Vimium, UltraSurf).
 - Bookmark bar = Always show.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
@@ -175,7 +175,7 @@
 
 ## Adobe:
 - Always Full Screen Size Launch.
-- Download and Install Photoshop Latest. Use Darkest Theme. Hide Context Bar.
+- Download and Install Photoshop Latest. Use Darkest Theme.
 - Download and Install After Effects Latest. Use Darkest Theme.
 - Download and Install Premiere Pro Latest. Use Darkest Theme.
 - Download and Install Lightroom Latest. Use Darkest Theme.
