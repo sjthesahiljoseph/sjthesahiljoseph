@@ -22,13 +22,14 @@
 
 (set-cursor-color "#40ff40")
 
+
 (save-place-mode 1)
 
 (blink-cursor-mode 0)
 (setq blink-cursor-blinks 0)
 (setq blink-cursor-interval 0.5)
 (setq highlight-nonselected-windows t)
-(setq-default cursor-in-non-selected-windows t)
+(setq-default cursor-in-non-selected-windows 'nil)
 
 (setq-default word-wrap t)
 (setq-default truncate-lines t)
@@ -317,7 +318,6 @@
 			(move-beginning-of-line 1))))
 
 (global-set-key [home] #'my/smart-home)
-
 
 
 
