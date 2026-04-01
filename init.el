@@ -22,6 +22,7 @@
 
 (set-cursor-color "#40ff40")
 
+(setf (cdr (assq 'truncation fringe-indicator-alist)) '(nil nil))
 
 (save-place-mode 1)
 
