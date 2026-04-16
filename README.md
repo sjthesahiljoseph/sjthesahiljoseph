@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Emacs, Visual Studio)
+    Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -35,7 +35,7 @@
 - Turn Off Timeline Suggestions.
 - Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Disable AI 100% from everywhere.
-- Desktop should have just default icons from settings. (small icons).
+- Desktop should have no icons at all.
 - Lock Screen free from widgets and everything.
 - Turn Off Notifications on Lock screen and other stuff.
 - Taskbar should have almost every everyday use application pin.
@@ -48,7 +48,7 @@
 - Alt + Tab should work with application windows not with their tabs.
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- UnInstall Microsoft OneDrive.
+- Install and setup Microsoft OneDrive.
 - Notepad: Disable AI, Fonts: Liberation Mono 13 pt / 17 px.
 - Advanced options: Disable max path limitation size.
 - Enable Developer Mode.
