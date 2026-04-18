@@ -23,9 +23,9 @@
 </summary>
 
 ## Operating System
-- Windows 11 Pro x64.
+- Windows 10 Pro x64.
 - Update Windows & Apps.
-- Dark Mode.
+- Dark Mode everywhere.
 - Blue Dark Theme.
 - Windows color = Default Blue.
 - On Transparency Effect.
@@ -42,7 +42,6 @@
 - Taskbar should contain pinned apps icons, no search bar, no task view button, no widgets icon, and always combine icons, and left alignment.
 - Taskbar show notification bell icon. And no notifications or reminders on lock screen.
 - Taskbar Size Standard, Not small.
-- Taskbar should have all icons possible in settings.
 - Other system tray icons = Enable all. No Dropdown stuff.
 - Start Menu default doesn't matter. Just disable random suggestions.
 - Alt + Tab should work with application windows not with their tabs.
@@ -113,7 +112,7 @@
 - Use Visual Studio IDE / Visual Studio Code.
 
 ## Terminal:
-- Windows Terminal.
+- Windows Terminal old CMD or PowerShell.
 - Make this default.
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
