@@ -49,7 +49,7 @@
 - Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
 - Install and setup Microsoft OneDrive.
-- Notepad: Disable AI, Fonts: Liberation Mono 13 pt / 17 px.
+- Notepad: Disable AI, Fonts: Consolas 13 pt / 17 px.
 - Advanced options: Disable max path limitation size.
 - Enable Developer Mode.
 - PowerShell change execution policy.
@@ -57,8 +57,8 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Liberation Mono 13 pt / 17 px.
-- Cursor: Wherever possible, Fat Bar Cursor ([]) #40ff40.
+- Always Fonts: Consolas 13 pt / 17 px.
+- Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
 - Win + Arrow Keys = Window Positions.
@@ -72,14 +72,9 @@
 - // }
 - snake_case, Pascal_Snake_Case, prefix_Pascal_Snake_Case, for almost everything. For everything.
 
-## Emacs:
-- Download and Install Emacs.
-- Make symlink with init.el.
-- Git Clone theme sjthesahiljoseph/loveisanillusion.emacs and place inside C:\Users\sjthe\Projects\.
-
 ## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C#/Python (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development, Python Development)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -111,12 +106,11 @@
 - Track Active Item in Solution Explorer.
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
-- Use Visual Studio IDE / Visual Studio Code as a debugger or explaining thing, but write text in Emacs.
 
 ## Python:
 - Download and Install Python.
 - Use Emacs & Terminal for Python development.
-- Use Visual Studio IDE / Visual Studio Code as a debugger or explaining thing, but write text in Emacs.
+- Use Visual Studio IDE / Visual Studio Code.
 
 ## Terminal:
 - Windows Terminal.
@@ -143,14 +137,14 @@
 - Don't show recently used or frequently used stuff in sidebar.
 
 ## Browser:
-- Install & Setup Google Chrome.
+- Install & Setup Microsoft Edge.
 - Always Full Screen Size Launch.
 - Make this default for everything.
 - System Dark Theme default.
-- Google Search Engine.
+- Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = (UBlock Origin (or lite), Vimium, UltraSurf).
+- Extensions = (UBlock Origin (or lite), Vimium).
 - Bookmark bar = Always show.
 - Turn Off Automatically sleep tabs mode, and all.
 - Show all buttons on toolbar and everywhere.
@@ -159,14 +153,13 @@
 - Rest Defaults.
 
 ## Backup:
-- Use Google Drive as primary cloud storage.
+- Use Microsoft OneDrive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
-- Google Photos for Photos & Videos, but keep in organized way.
 
-## Google Workspace:
-- Use Google Workspace apps like Sheets, Docs, Slides, etc...
-- Use from Browser.
+## Microsoft Office:
+- Use Microsoft Office like Word, PowerPoint, Excel, etc...
+- Always Full Screen Size Launch.
 
 ## VLC Media Player:
 - Download and Install VLC Media Player.
@@ -213,15 +206,14 @@
 - Use darkest Theme.
 - Always Full Screen Size Launch.
 
-## WinRar:
-- Download and Install WinRar.
+## 7Zip:
+- Download and Install 7Zip.
 - Always Half Screen Size Launch.
 - Install with all checkboxes.
 
 ## Mail Client:
-- Gmail:
-	- Use Gmail with sjthesahiljoseph@gmail.com.
-	- From Browser.
+- Microsoft Outlook:
+	- Use Microsoft Outlook with sjthesahiljoseph@gmail.com.
 
 ## Music:
 - YouTube, YouTube Music.
