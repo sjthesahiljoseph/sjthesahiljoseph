@@ -79,7 +79,7 @@
 - Disable All AI related Features.
 - VS: Extensions = (VS Block Jumper).
 - VSC: Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
-- Fonts (Editor and Terminal & All): Liberation Mono 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -116,7 +116,7 @@
 - Make this default.
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Font: Liberation Mono 13 pt / 17 px.
+- Font: Consolas 13 pt / 17 px.
 - Line Height = 1.0.
 - Cursor: Fat Bar Cursor ([]). "#40ff40".
 - Scrollbar Always Visible.
