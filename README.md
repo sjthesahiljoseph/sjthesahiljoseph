@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game & Game Engine Developer: (C/C++, C#, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -73,7 +73,7 @@
 
 ## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development, ASP.NET Development, Desktop Development with C# .NET)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C#/Python (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development, ASP.NET Development, Desktop Development with C# .NET, Python Development)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
@@ -105,6 +105,10 @@
 - Track Active Item in Solution Explorer.
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
+
+## Python:
+- Download and Install Python.
+- Use Visual Studio IDE / Visual Studio Code for Python Development.
 
 ## Terminal:
 - Windows Terminal old CMD or PowerShell.
