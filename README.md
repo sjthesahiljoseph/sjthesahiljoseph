@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game & Game Engine Developer: (C/C++, C#, Python, Custom Engine, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Game & Game Engine Developer: (C/C++, C#, Python, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
