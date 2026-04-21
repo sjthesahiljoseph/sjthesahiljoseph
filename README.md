@@ -23,7 +23,7 @@
 </summary>
 
 ## Operating System
-- Windows 10 Pro x64.
+- Windows 11 Pro x64.
 - Update Windows & Apps.
 - Dark Mode everywhere.
 - Blue Dark Theme.
@@ -31,25 +31,23 @@
 - On Transparency Effect.
 - Always show scrollbar. Never hide. For all windows.
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
+- Turn Off Notifications at all.
 - Disable Auto Sleep, Screen Off.
-- Turn Off Timeline Suggestions.
-- Desktop & Lock Screen Wallpaper = wallpaper.png.
+- Desktop & Lock Screen Wallpaper = Any Default One.
 - Disable AI 100% from everywhere.
 - Desktop should have no icons at all.
 - Lock Screen free from widgets and everything.
-- Turn Off Notifications on Lock screen and other stuff.
 - Taskbar should have almost every everyday use application pin.
 - Taskbar should contain pinned apps icons, no search bar, no task view button, no widgets icon, and always combine icons, and left alignment.
-- Taskbar show notification bell icon. And no notifications or reminders on lock screen.
 - Taskbar Size Standard, Not small.
+- Taskbar should have all possible icons on right side.
 - Other system tray icons = Enable all. No Dropdown stuff.
-- Start Menu default doesn't matter. Just disable random suggestions.
+- Start Menu default doesn't matter.
 - Alt + Tab should work with application windows not with their tabs.
-- Disable sticky keys, toggle keys, filter keys.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
 - Install and setup Microsoft OneDrive.
 - Notepad: Disable AI, Fonts: Consolas 13 pt / 17 px.
-- Advanced options: Disable max path limitation size.
+- Advanced options: Enable almost every advanced option.
 - Enable Developer Mode.
 - PowerShell change execution policy.
 - Rest Defaults.
