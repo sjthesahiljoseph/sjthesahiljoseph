@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Computer Instructor & Game Developer: (C/C++, C#, Python, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Computer Instructor & Game Developer: (C/C++, C#, Python, Java, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -46,7 +46,7 @@
 - Alt + Tab should work with application windows not with their tabs.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
 - Install and setup Microsoft OneDrive.
-- Notepad: Disable AI, Fonts: Consolas 13 pt / 17 px.
+- Notepad: Disable AI, Fonts: Cascadia Mono 13 pt / 17 px.
 - Advanced options: Enable almost every advanced option.
 - Enable Developer Mode.
 - PowerShell change execution policy.
@@ -54,7 +54,7 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Always Fonts: Consolas 13 pt / 17 px.
+- Always Fonts: Cascadia Mono 13 pt / 17 px.
 - Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
@@ -71,13 +71,13 @@
 
 ## Visual Studio Community 2026 & Visual Studio Code:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C#/Python (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development, ASP.NET Development, Desktop Development with C# .NET, Python Development)).
+- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development, ASP.NET Development, Desktop Development with C# .NET)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
 - VS: Extensions = (VS Block Jumper).
 - VSC: Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
-- Fonts (Editor and Terminal & All): Consolas 13 pt / 17 px.
+- Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
@@ -104,18 +104,18 @@
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
 
-## Python:
-- Download and Install Python.
-- Use Visual Studio IDE / Visual Studio Code for Python Development.
+## Python & Java:
+- Download and Install Python & Java JDK.
+- Use Visual Studio Code for Python & Java Development.
 
 ## Terminal:
 - Windows Terminal old CMD or PowerShell.
 - Make this default.
 - Always half Screen Size Launch.
 - Color theme (Love is an Illusion) for all BG: #071307, FG: #90B080, Selection Color: #0000ff.
-- Font: Consolas 13 pt / 17 px.
+- Font: Cascadia Mono 13 pt / 17 px.
 - Line Height = 1.0.
-- Cursor: Fat Bar Cursor ([]). "#40ff40".
+- Cursor: Line Bar Cursor (|). "#40ff40".
 - Scrollbar Always Visible.
 - Use as many tabs.
 
@@ -141,8 +141,7 @@
 - New Tab Page = Default but empty.
 - Sign In & Sync.
 - Extensions = (UBlock Origin (or lite), Vimium).
-- Bookmark bar = Always show.
-- Turn Off Automatically sleep tabs mode, and all.
+- Bookmark bar = Always Show.
 - Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
 - Show search recommendations or suggestions.
@@ -217,7 +216,7 @@
 
 ## SJ Mobile:
 - Always Dark Mode.
-- Desktop & Lock Screen Wallpaper = wallpaper.png.
+- Desktop & Lock Screen Wallpaper = Any Default One.
 - Ringtone = ringtone.mp3.
 - Notification = Vibration Mode Only.
 - Lock = Password + Finger Print Lock.
