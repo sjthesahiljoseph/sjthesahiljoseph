@@ -81,7 +81,7 @@
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
 - Solution Explorer and Git Change = Left Side.
-- Theme = Default Modern Dark.
+- Theme = Default Dark 2026.
 - Indent = Use tabs and 4 size.
 - Word Wrap Off.
 - Multiple Row Tab On & Do scroll with scroll wheel on tabs.
