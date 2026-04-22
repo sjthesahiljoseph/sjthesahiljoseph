@@ -33,7 +33,7 @@
 - Turn Off Windows Snap Effects and suggestions, but enable snapping.
 - Turn Off Notifications at all.
 - Disable Auto Sleep, Screen Off.
-- Desktop & Lock Screen Wallpaper = Any Default One.
+- Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Disable AI 100% from everywhere.
 - Desktop should have no icons at all.
 - Lock Screen free from widgets and everything.
@@ -216,7 +216,7 @@
 
 ## SJ Mobile:
 - Always Dark Mode.
-- Desktop & Lock Screen Wallpaper = Any Default One.
+- Desktop & Lock Screen Wallpaper = wallpaper.png.
 - Ringtone = ringtone.mp3.
 - Notification = Vibration Mode Only.
 - Lock = Password + Finger Print Lock.
