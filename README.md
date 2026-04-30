@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Computer Instructor & Game Developer: (C/C++, C#, Python, Java, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Computer Instructor & Game Developer: (C/C++, C#, Python, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -104,9 +104,9 @@
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
 
-## Python & Java:
-- Download and Install Python & Java JDK.
-- Use Visual Studio Code for Python & Java Development.
+## Python:
+- Download and Install Python.
+- Use Visual Studio Code for Python Development.
 
 ## Terminal:
 - Windows Terminal old CMD or PowerShell.
