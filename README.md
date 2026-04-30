@@ -37,8 +37,7 @@
 - Disable AI 100% from everywhere.
 - Desktop should have no icons at all.
 - Lock Screen free from widgets and everything.
-- Taskbar should have almost every everyday use application pin.
-- Taskbar should contain pinned apps icons, no search bar, no task view button, no widgets icon, and always combine icons, and left alignment.
+- Taskbar should contain no pinned apps icons, only opened apps, long full name view, no search bar, no task view button, no widgets icon, and always combine icons, and left alignment.
 - Taskbar Size Standard, Not small.
 - Taskbar should have all possible icons on right side.
 - Other system tray icons = Enable all. No Dropdown stuff.
