@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Computer Instructor & Game Developer: (C/C++, C#, Python, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Game Developer: (C/C++, C#, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -102,10 +102,6 @@
 - Track Active Item in Solution Explorer.
 - Ctrl + Up/Down & Ctrl + Shift + Up/Down = Paragraph Navigation.
 - Settings = VsSettings.vssettings & VsSettings.json.
-
-## Python:
-- Download and Install Python.
-- Use Visual Studio Code for Python Development.
 
 ## Terminal:
 - Windows Terminal old CMD or PowerShell.
@@ -206,8 +202,8 @@
 - Install with all checkboxes.
 
 ## Mail Client:
-- Microsoft Outlook:
-	- Use Microsoft Outlook with sjthesahiljoseph@gmail.com.
+- GMail:
+	- Use GMail with sjthesahiljoseph@gmail.com.
 
 ## Music:
 - YouTube, YouTube Music.
