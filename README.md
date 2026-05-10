@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game Developer: (C/C++, C#, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
+    Game Developer: (C/C++, C#, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
