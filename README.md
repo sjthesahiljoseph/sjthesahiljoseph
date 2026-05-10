@@ -191,11 +191,6 @@
 - Love is an Illusion Color Pallete.
 - Always Full Screen Size Launch.
 
-## Reaper:
-- Download and Install Reaper.
-- Use darkest Theme.
-- Always Full Screen Size Launch.
-
 ## 7Zip:
 - Download and Install 7Zip.
 - Always Half Screen Size Launch.
