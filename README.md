@@ -197,8 +197,8 @@
 - Install with all checkboxes.
 
 ## Mail Client:
-- GMail:
-	- Use GMail with sjthesahiljoseph@gmail.com.
+- Microsoft OutLook:
+	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
 
 ## Music:
 - YouTube, YouTube Music.
