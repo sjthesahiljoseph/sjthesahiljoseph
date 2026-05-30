@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game Developer: (C/C++, C#, Unity, Unreal, OpenGL, Vulkan, DirectX, Blender, Adobe, Visual Studio)
+    Game & Game Engine Developer: (C/C++, OpenGL, Vulkan, DirectX, Blender, Adobe, Reaper, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -68,14 +68,13 @@
 - // }
 - snake_case, Pascal_Snake_Case, prefix_Pascal_Snake_Case, for almost everything. For everything.
 
-## Visual Studio Community 2026 & Visual Studio Code:
+## Visual Studio Community 2026:
 - Always Full Screen Size Launch.
-- Download and Install Visual Studio Community 2026 with (C/C++/C# (Desktop Development with C/C++, Game Development with C/C++, Unreal Engine Development, Unity Engine Development, ASP.NET Development, Desktop Development with C# .NET)).
+- Download and Install Visual Studio Community 2026 with (C/C++ (Desktop Development with C/C++, Game Development with C/C++)).
 - Sign In using Microsoft / GitHub Account.
 - Sync.
 - Disable All AI related Features.
-- VS: Extensions = (VS Block Jumper).
-- VSC: Extensions = (Auto Hide, Material Icon Theme, Space Block Jumper).
+- Extensions = (VS Block Jumper).
 - Fonts (Editor and Terminal & All): Cascadia Mono 13 pt / 17 px.
 - Disable highlight current line.
 - Cursor: Line Bar Cursor (|).
@@ -128,14 +127,13 @@
 - Don't show recently used or frequently used stuff in sidebar.
 
 ## Browser:
-- Install & Setup Microsoft Edge.
+- Download and Install Google Chrome.
 - Always Full Screen Size Launch.
 - Make this default for everything.
 - System Dark Theme default.
-- Bing Search Engine.
 - New Tab Page = Default but empty.
 - Sign In & Sync.
-- Extensions = (UBlock Origin (or lite), Vimium).
+- Extensions = (UBlock Origin, Vimium).
 - Bookmark bar = Always Show.
 - Show all buttons on toolbar and everywhere.
 - Off all AI related stuff in the browser.
@@ -143,12 +141,13 @@
 - Rest Defaults.
 
 ## Backup:
-- Use Microsoft OneDrive as primary cloud storage.
+- Use Google Drive as primary cloud storage.
 - Manually create and work with files and folders.
 - Organize all data using folders, etc... (old way, manually).
+- Google Photos for Photos and Videos.
 
-## Microsoft Office:
-- Use Microsoft Office like Word, PowerPoint, Excel, etc...
+## Google GSuit:
+- Use Google GSuit like Spreadsheet, Docs, etc... from Browser.
 - Always Full Screen Size Launch.
 
 ## VLC Media Player:
@@ -170,13 +169,8 @@
 - Always Full Screen Size Launch.
 - Use Darkest Theme.
 
-## Unity Engine:
-- Download and Install Unity Engine.
-- Always Full Screen Size Launch.
-- Use Darkest Theme.
-
-## Unreal Engine:
-- Download and Install Unreal Engine.
+## Reaper:
+- Download and Install Reaper Latest.
 - Always Full Screen Size Launch.
 - Use Darkest Theme.
 
@@ -197,8 +191,8 @@
 - Install with all checkboxes.
 
 ## Mail Client:
-- Microsoft OutLook:
-	- Use Microsoft OutLook with sjthesahiljoseph@gmail.com.
+- GMail:
+	- Use GMail with sjthesahiljoseph@gmail.com.
 
 ## Music:
 - YouTube, YouTube Music.
