@@ -44,7 +44,7 @@
 - Start Menu default doesn't matter.
 - Alt + Tab should work with application windows not with their tabs.
 - Turn off auto correct, and all, just highlight misspelled word. That's it.
-- Install and setup Microsoft OneDrive.
+- UnInstall Microsoft OneDrive & CoPilot etc.
 - Notepad: Disable AI, Fonts: Cascadia Mono 13 pt / 17 px.
 - Advanced options: Enable almost every advanced option.
 - Enable Developer Mode.
