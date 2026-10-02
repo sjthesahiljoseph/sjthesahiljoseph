@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Game & Game Engine Developer: (C/C++, OpenGL, Vulkan, DirectX, Blender, Adobe, Emacs, Visual Studio)
+    Game & Game Engine Developer: (C/C++, OpenGL, Vulkan, DirectX, Emacs, Visual Studio)
 </h3>
 
 - Website: sjthesahiljoseph.com
@@ -15,6 +15,8 @@
 - YouTube: youtube.com/@sjthesahiljoseph
 
 - Instagram: instagram.com/@sjthesahiljoseph
+
+- LinkedIn: linkedin.com/in/sjthesahiljoseph
 
 <details>
 
