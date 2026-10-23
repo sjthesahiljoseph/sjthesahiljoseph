@@ -56,7 +56,7 @@
 
 ## Style:
 - Open any windows either in maximized mode, or in split (left or right doesn't matter). 99.9% cases.
-- Fonts for Code: Cascadia Mono 13 pt / 17 px.
+- Fonts for Code: Liberation Mono 13 pt / 17 px.
 - Cursor: Wherever possible, Line Bar Cursor (|).
 - No AI at all for working.
 - Alt + Tab = Switch Windows.
