@@ -1,27 +1,27 @@
 
 
 <h1 align="center">
-    SJ the Sahil Joseph
+    sj the sahil joseph
 </h1>
 
 <h3 align="center">
-    Game & Game Engine Developer: (C/C++, OpenGL, Vulkan, DirectX, Emacs, Visual Studio)
+    video game & game engine developer : (c/c++, opengl, vulkan, directx, emacs, visual studio)
 </h3>
 
-- Website: sjthesahiljoseph.com
+- website: sjthesahiljoseph.com
 
-- Email Address: sjthesahiljoseph@gmail.com
+- email address: sjthesahiljoseph@gmail.com
 
-- YouTube: youtube.com/@sjthesahiljoseph
+- youtube: youtube.com/@sjthesahiljoseph
 
-- Instagram: instagram.com/@sjthesahiljoseph
+- instagram: instagram.com/@sjthesahiljoseph
 
-- LinkedIn: linkedin.com/in/sjthesahiljoseph
+- linkedIn: linkedin.com/in/sjthesahiljoseph
 
 <details>
 
 <summary>
-    SJ the Sahil Joseph's Configurations
+    sj the sahil joseph's configurations
 </summary>
 
 ## Operating System
